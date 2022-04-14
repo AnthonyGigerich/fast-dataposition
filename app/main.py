@@ -56,7 +56,7 @@ def get_db():
 # read profiles, questions and weighted answers
 # FIXME move out to config file
 JSON_PROFILES = "data/profiles.json"
-CSV_PQWA = "data/qr_databat.csv"
+CSV_PQWA = "data/qr_doc_sante.csv"
 
 # FIXME move out to another config file
 PQWA_NAMES = ["Profil", "Question", "Pondération (1 à 4)", "Valeur de réponse"]

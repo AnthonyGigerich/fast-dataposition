@@ -6,16 +6,16 @@
         "badge": "dataposition_ambassadeur.png"
     },
     {
-        "id": "analyste",
-        "name": "Analyste",
+        "id": "developpeur",
+        "name": "Développeur",
         "color": "#E46480",
-        "badge": "dataposition_analyste.png"
+        "badge": "dataposition_developpeur.png"
     },
     {
-        "id": "batisseur",
-        "name": "Bâtisseur",
+        "id": "expert_tal",
+        "name": "Expert TAL",
         "color": "#7A6CB6",
-        "badge": "dataposition_batisseur.png"
+        "badge": "dataposition_expert_tal.png"
     },
     {
         "id": "creatif",
@@ -24,10 +24,10 @@
         "badge": "dataposition_creatif.png"
     },
     {
-        "id": "expert",
-        "name": "Expert",
+        "id": "expert_doc_sante",
+        "name": "Expert document santé",
         "color": "#46C39B",
-        "badge": "dataposition_expert.png"
+        "badge": "dataposition_expert_doc_sante.png"
     },
     {
         "id": "pilote",
