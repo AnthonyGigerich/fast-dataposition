@@ -1,33 +1,35 @@
 <!DOCTYPE html>
 <html lang="fr">
-
-<head>
-  <meta charset="UTF-8" />
-  {% block head %}
-  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Josefin+Sans" />
-  <link rel="stylesheet" href="static/style.css" />
-  <title>{% block title %}{% endblock %} - Dataposition</title>
-  {% endblock %}
-</head>
-
-<body>
-  <div id="header" class="header">
-    {% block header %}
-    <img width="100%" src="/static/media/Banniere_Defi-iDocSante.JPG" alt="Concours Défi Idoc Santé">
+  <head>
+    <meta charset="UTF-8" />
+    {% block head %}
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="//fonts.googleapis.com/css?family=Josefin+Sans"
+    />
+    <link rel="stylesheet" href="static/style.css" />
+    <title>{% block title %}{% endblock %} - Dataposition</title>
     {% endblock %}
-  </div>
-  <div id="content">{% block content %}{% endblock %}</div>
-  <div id="footer" class="footer">
-    {% block footer %}
-    <img width=100px src="/static/media/datactivist_logo_couleur.png" alt="Datactivist">
-    Dataposition, un outil
-    <a href="https://datactivist.coop">Datactivist</a>
-    conçu pour le concours DataBât.
-    <small>Sur une idée de la
-      <a href="https://infolabs.io/content/qui-sommes-nous">
+  </head>
+
+  <body>
+    <div id="header" class="header">
+      {% block header %}
+      <img width="100%" src="/static/media/Bandeau.svg" alt="Challenge GD4H">
+      {% endblock %}
+    </div>
+    <div id="content">{% block content %}{% endblock %}</div>
+    <div id="footer" class="footer">
+      {% block footer %}
+      <img width=100px src="/static/media/datactivist_logo_couleur.png" alt="Datactivist">
+      <a href="https://github.com/datactivist/fast-dataposition" target="_blank" rel="noreferrer">Dataposition</a>, un outil
+      <a href="https://datactivist.coop" target="_blank" rel="noreferrer">Datactivist</a>
+      conçu pour le concours DataBât.
+      <small>Sur une idée de la
+        <a href="https://infolabs.io/content/qui-sommes-nous" target="_blank" rel="noreferrer">
         Campagne Infolab</a>.</small>
-    {% endblock %}
-  </div>
-</body>
-
+      {% endblock %}
+    </div>
+  </body>
 </html>

@@ -22,6 +22,7 @@ from . import crud, models, schemas
 from .db.session import SessionLocal, engine
 from .pqwa_csv import load_pqwa, df_to_nesteddict
 
+
 #
 # define the (sub)forms
 class QuestionForm(StarletteForm):
@@ -56,7 +57,7 @@ def get_db():
 # read profiles, questions and weighted answers
 # FIXME move out to config file
 JSON_PROFILES = "data/profiles.json"
-CSV_PQWA = "data/qr_doc_sante.csv"
+CSV_PQWA = "data/qr_databat.csv"
 
 # FIXME move out to another config file
 PQWA_NAMES = ["Profil", "Question", "Pondération (1 à 4)", "Valeur de réponse"]
@@ -130,6 +131,7 @@ def get_questions(request: Request, order: str = "keep") -> List[QuestionForm]:
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates/")
+
 
 # routes
 # we directly use the Starlette Request : https://www.starlette.io/requests/

@@ -3,36 +3,17 @@
 {% block head %}
 {{ super() }}
 <style type="text/css">
-  {
-    % for p_id,
-    p_color in p_id2color.items() %
-  }
-
-  .profile- {
-      {
-      p_id
-    }
-  }
-
-    {
-    background-color: {
-        {
-        p_color
-      }
-    }
-
-    ;
+  {% for p_id, p_color in p_id2color.items() %}
+  .profile-{{ p_id }}{
+    background-color: {{ p_color }};
     color: white;
   }
-
-    {
-    % endfor %
-  }
+  {% endfor %}
 </style>
 {% endblock %}
 {% block content %}
 <div id="summary-scores" style="font-size: 16px; margin-top: 2em ; width: 400px; overflow: auto;">
-  Voici vos résultats au Dataposition :<br /><br />
+  Voici vos résultats au Dataposition :<br/><br/>
   <table>
     {% for p_id, p_score in profile_scores %}
     <tr>
@@ -52,18 +33,18 @@
     {% if main_profiles[0] == "Ambassadeur" %}
     L’ambassadeur est celui qui maîtrise les discours de communication, qui sait se montrer clair et efficace dans une
     démonstration. En résumé, l’interlocuteur de choix pour porter le projet.
+    {% elif main_profiles[0] == "Analyste" %}
+    L’analyste : manier les données, ça le connait ! Il connait leurs forces et leurs faiblesses et les utilise pour
+    produire du savoir.
+    {% elif main_profiles[0] == "Bâtisseur" %}
+    Le bâtisseur est l’expert des solutions techniques, celui qui est le plus capable de produire des prototypes
+    aboutis, le facilitateur du groupe dans les démarches de production.
     {% elif main_profiles[0] == "Créatif" %}
     Le créatif est l’astucieux de la bande, celui qui apporte un point de vue original et se montre particulièrement
     imaginatif dans la production des livrables.
-    {% elif main_profiles[0] == "Expert TAL" %}
-    L’expert TAL maîtrise le sujet du traitement automatique du langage sur le bout des doigts. Il est le garant de
-    l'exploitation des documents.
-    {% elif main_profiles[0] == "Développeur" %}
-    Le développeur manie les langages de programmation comme personne. Il est le pont entre les idées et le produit
-    fini.
-    {% elif main_profiles[0] == "Expert document santé" %}
-    L'expert document santé connaît tout sur tout sur ces derniers. Son point de vue métier facilite la
-    compréhension et l'analyse des documents utilisés.
+    {% elif main_profiles[0] == "Expert" %}
+    L’expert maîtrise le sujet de la rénovation énergétique sur le bout des doigts. Il est le garant de la méthodologie,
+    celui capable d’apporter une distanciation critique.
     {% else %}
     Le pilote est inspirant et moteur dans la collaboration, il insuffle enthousiasme et confiance au sein du groupe. Il
     sait faire ressortir le meilleur de ses collaborateurs.
@@ -76,19 +57,18 @@
     Il semblerait que vous ayez plusieurs cordes à votre arc et que vous ayez obtenu votre meilleur score sur plusieurs
     profils différents ! Votre équipe aura certainement beaucoup de chances de vous avoir mais essayons tout de même de
     déterminer votre profil dominant : envoyez un mail à
-    <a
-      href="mailto:clement.feyt@datactivist.coop?subject=[Défi Idoc Santé] J'ai plusieurs cordes à mon arc">clement.feyt@datactist.coop</a>
-    pour qu'il démêle les choses avec vous.
+    <a href="mailto:clement.feyt@datactivist.coop?subject=[Challenge GD4H] J'ai plusieurs cordes à mon arc">clement.feyt@datactivist.coop</a>
+    pour qu’il démêle les choses avec vous.
   </div>
 </div>
 {% endif %}
 
 <div style="margin-top: 2em; margin-bottom: 2em;">
   Suite à ce questionnaire, vous recevrez un badge correspondant à votre profil sur
-  <a href="https://forum.defi-idoc-sante.fr/">le forum</a> !
+  <a href="https://forum.challenge.gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">le forum</a> !
   Vous pourrez ainsi facilement composer une équipe avec des profils diversifiés en cliquant sur le profil d’un autre
   participant pour voir quel badge lui a été décerné ou en consultant
-  <a href="https://forum.defi-idoc-sante.fr/">la rubrique badge</a>
+  <a href="https://forum.challenge.gd4h.ecologie.gouv.fr/badges" target="_blank" rel="noreferrer">la rubrique badge</a>
   pour connaître la liste de tous les participants correspondant à chaque profil.
 </div>
 {% endblock %}

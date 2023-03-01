@@ -3,31 +3,12 @@
 {% block head %}
 {{ super() }}
 <style type="text/css">
-  {
-    % for p_id,
-    p_color in p_id2color.items() %
-  }
-
-  .profile- {
-      {
-      p_id
-    }
-  }
-
-    {
-    background-color: {
-        {
-        p_color
-      }
-    }
-
-    ;
+  {% for p_id, p_color in p_id2color.items() %}
+  .profile-{{ p_id }}{
+    background-color: {{ p_color }};
     color: white;
   }
-
-    {
-    % endfor %
-  }
+  {% endfor %}
 </style>
 {% endblock %}
 {% block content %}
@@ -36,35 +17,26 @@
   <font size="+2">
     Ce formulaire a pour objectif de déterminer votre profil principal, ce qui permettra de constituer des équipes
     composées de profils diversifiés et d'aider à identifer les participants nécessaires à un projet.
-    <br>
-    Le profil principal auquel un
-    participant correspond sera matérialisé par un badge sur son avatar.
   </font>
 
   <form method="POST">
     <div class="div-form-id">
-      <fieldset>
-        <legend>Identification</legend>
-        <table>
-          <tr>
-            <td style="text-align:right">Nom&nbsp;:</td>
-            <td>{{ dataposition_form.name }}</td>
-          </tr>
-          <tr>
-            <td style="text-align:right">Email&nbsp;:</td>
-            <td>{{ dataposition_form.email }}</td>
-          </tr>
-        </table>
-      </fieldset>
+    <fieldset>
+      <legend>Identification</legend>
+      <table>
+      <tr><td style="text-align:right">Nom&nbsp;:</td><td>{{ dataposition_form.name }}</td></tr>
+      <tr><td style="text-align:right">Email&nbsp;:</td><td>{{ dataposition_form.email }}</td></tr>
+      </table>
+    </fieldset>
     </div>
     {% for q_form in dataposition_form.questions %}
     <div class="div-fieldset">
       <fieldset>
         <legend class="profile-{{ q_form.question.id.split('-', 1)[0] }}">
-          {{ q_form.question.label }}
+        {{ q_form.question.label }}
         </legend>
         {% for answer in q_form.question %}
-        {{ answer }} {{ answer.label }}<br />
+        {{ answer }} {{ answer.label }}<br/>
         {% endfor %}
       </fieldset>
     </div>
