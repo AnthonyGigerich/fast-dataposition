@@ -76,6 +76,19 @@ p_id2name = {p["id"]: p["name"] for p in profiles}
 p_id2badge = {p["id"]: p["badge"] for p in profiles}
 p_id2color = {p["id"]: p["color"] for p in profiles}
 
+defis = [
+    {"id": 0, "checked": False, "name": "Défi #1", "url": "http"},
+    {"id": 1, "checked": False, "name": "Défi #2", "url": "http"},
+    {"id": 2, "checked": False, "name": "Défi #3", "url": "http"},
+    {"id": 3, "checked": False, "name": "Défi #4", "url": "http"},
+    {"id": 4, "checked": False, "name": "Défi #5", "url": "http"},
+    {"id": 5, "checked": False, "name": "Défi #6", "url": "http"},
+    {"id": 6, "checked": False, "name": "Défi #7", "url": "http"},
+    {"id": 7, "checked": False, "name": "Défi #8", "url": "http"},
+    {"id": 8, "checked": False, "name": "Défi #9", "url": "http"},
+    {"id": 9, "checked": False, "name": "Défi #10", "url": "http"},
+]
+
 # load the profiles, questions, weights, answers
 # FIXME refactor to put the list of questions in the DataBase,
 # with their own table and proper IDs etc
@@ -160,6 +173,7 @@ async def get_form(request: Request, db: Session = Depends(get_db)):
             "request": request,
             "dataposition_form": dataposition_form,
             "p_id2color": p_id2color,
+            "defis": defis,
         },
     )
 
@@ -249,6 +263,7 @@ async def parse_form(request: Request, db: Session = Depends(get_db)) -> Respons
             "request": request,
             "p_id2color": p_id2color,
             "p_id2name": p_id2name,
+            "defis": defis,
             # personal info
             "name": form_data["name"],
             "email": form_data["email"],

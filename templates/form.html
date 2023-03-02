@@ -41,6 +41,20 @@
       </fieldset>
     </div>
     {% endfor %}
+    <div class="div-fieldset">
+      <fieldset>
+        <legend class="fav-defi">
+          Sélectionner vos défis favoris (5 maximum)
+        </legend>
+        {% for defi in defis %}
+        <label>
+          <input type="checkbox" name="selected-defis" value="{{ defi.id }}" />
+          <a href="{{defi.url}}" target="_blank" rel="noreferrer">{{ defi.name }}</a>
+        </label>
+        <br />
+        {% endfor %}
+      </fieldset>
+    </div>
     <div class="div-btn-submit">
       <div class="center">
         <button type="submit">Envoyer</button>
@@ -48,4 +62,24 @@
     </div>
   </form>
 </div>
+
+<script>
+  const maxSelectedDefis = 5;
+  const selectedDefis = document.querySelectorAll('input[name="selected-defis"]');
+  let numSelectedDefis = 0;
+
+  selectedDefis.forEach(defi => {
+    defi.addEventListener('change', () => {
+      if (defi.checked) {
+        numSelectedDefis++;
+      } else {
+        numSelectedDefis--;
+      }
+      if (numSelectedDefis > maxSelectedDefis) {
+        defi.checked = false;
+        numSelectedDefis--;
+      }
+    });
+  });
+</script>
 {% endblock %}
