@@ -30,6 +30,9 @@
     </fieldset>
     </div>
     {% for q_form in dataposition_form.questions %}
+      {% if q_form.question.label == "Sélectionner votre défi favoris" %}
+        Liste des défis : <a href="https://challenge.gd4h.ecologie.gouv.fr/defis/" target="_blank" rel="noreferrer">https://challenge.gd4h.ecologie.gouv.fr/defis/</a>
+      {% endif %}
       {% if q_form.question.choices|length < 7 %} 
         <div class="div-fieldset">
           <fieldset>

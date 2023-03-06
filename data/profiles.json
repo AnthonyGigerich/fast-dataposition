@@ -2,49 +2,49 @@
     {
         "id": "ambassadeur",
         "name": "Ambassadeur",
-        "color": "#6EA0CC",
+        "color": "#5982e0",
         "badge": "dataposition_ambassadeur.png"
     },
     {
         "id": "analyste",
         "name": "Analyste",
-        "color": "#E46480",
+        "color": "#009fa7",
         "badge": "dataposition_analyste.png"
     },
     {
         "id": "batisseur",
         "name": "Bâtisseur",
-        "color": "#7A6CB6",
+        "color": "#ba5655",
         "badge": "dataposition_batisseur.png"
     },
     {
         "id": "creatif",
         "name": "Créatif",
-        "color": "#FF604A",
+        "color": "#465f9d",
         "badge": "dataposition_creatif.png"
     },
     {
         "id": "expert",
         "name": "Expert",
-        "color": "#46C39B",
+        "color": "#00A95F",
         "badge": "dataposition_expert.png"
     },
     {
         "id": "pilote",
         "name": "Pilote",
-        "color": "#FBCF1A",
+        "color": "#b7a73f",
         "badge": "dataposition_pilote.png"
     },
     {
         "id": "favoris",
         "name": "Favoris",
-        "color": "#FBCF1A",
+        "color": "#ce614a",
         "badge": "dataposition_pilote.png"
     },
     {
         "id": "favoris2",
         "name": "Favoris2",
-        "color": "#FBCF1A",
+        "color": "#ce614a",
         "badge": "dataposition_pilote.png"
     }
 ]
