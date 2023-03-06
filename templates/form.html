@@ -30,31 +30,40 @@
     </fieldset>
     </div>
     {% for q_form in dataposition_form.questions %}
-    <div class="div-fieldset">
-      <fieldset>
-        <legend class="profile-{{ q_form.question.id.split('-', 1)[0] }}">
-        {{ q_form.question.label }}
-        </legend>
-        {% for answer in q_form.question %}
-        {{ answer }} {{ answer.label }}<br/>
-        {% endfor %}
-      </fieldset>
-    </div>
+      {% if q_form.question.choices|length < 7 %} 
+        <div class="div-fieldset">
+          <fieldset>
+            
+            <legend class="profile-{{ q_form.question.id.split('-', 1)[0] }}">
+              {{ q_form.question.label }}
+            </legend>
+        
+            {% for answer in q_form.question %}
+            {{ answer }} {{ answer.label }}<br />
+            {% endfor %}
+          </fieldset>
+        </div>
+      {% endif %}
+      {% if q_form.question.choices|length >= 7 %}
+        <div class="div-fieldset">
+          <fieldset>
+            <legend class="profile-{{ q_form.question.id.split('-', 1)[0] }}">
+              {{ q_form.question.label }}
+            </legend>
+      
+            <select name="{{ q_form.question.id }}">
+              {% for dropdown_answer in q_form.question.choices %}
+                {% if loop.first %}
+                  <option value="{{ dropdown_answer[0] }}" selected>{{ dropdown_answer[1] }}</option>
+                {% else %}
+                  <option value="{{ dropdown_answer[0] }}">{{ dropdown_answer[1] }}</option>
+                {% endif %}
+              {% endfor %}  
+            </select>
+          </fieldset>
+        </div>
+      {% endif %}
     {% endfor %}
-    <div class="div-fieldset">
-      <fieldset>
-        <legend class="fav-defi">
-          Sélectionner vos défis favoris (5 maximum)
-        </legend>
-        {% for defi in defis %}
-        <label>
-          <input type="checkbox" name="selected-defis" value="{{ defi.id }}" />
-          <a href="{{defi.url}}" target="_blank" rel="noreferrer">{{ defi.name }}</a>
-        </label>
-        <br />
-        {% endfor %}
-      </fieldset>
-    </div>
     <div class="div-btn-submit">
       <div class="center">
         <button type="submit">Envoyer</button>

@@ -1,4 +1,4 @@
-﻿Valeur de réponse,Question,Profil,Pondération (1 à 4)
+Valeur de réponse,Question,Profil,Pondération (1 à 4)
 J'ai une mauvaise connaissance des acteurs et de leurs besoins.,Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,0
 Je suis capable d'identifier les besoins et les contraintes de mes interlocuteurs.,Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,2
 Je suis capable d'identifier les besoins et d'adapter mon discours en fonction de mon interlocuteur.,Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,3
@@ -144,3 +144,27 @@ Je rédige une proposition alternative qui pourrait faire consensus.,"""Si plusi
 Je tente de faire discuter l'équipe en vue d'un consensus.,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,3
 J'organise un brainstorming avec l'équipe pour dégager une idée qui dépasse les propositions individuelles.,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,4
 Qu'ils se débrouillent !,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,0
+Pas de préférence,"""Sélectionner votre défi favoris""",Favoris,0
+Défi 1,"""Sélectionner votre défi favoris""",Favoris,1
+Défi 2,"""Sélectionner votre défi favoris""",Favoris,2
+Défi 3,"""Sélectionner votre défi favoris""",Favoris,3
+Défi 4,"""Sélectionner votre défi favoris""",Favoris,4
+Défi 5,"""Sélectionner votre défi favoris""",Favoris,5
+Défi 6,"""Sélectionner votre défi favoris""",Favoris,6
+Défi 7,"""Sélectionner votre défi favoris""",Favoris,7
+Défi 8,"""Sélectionner votre défi favoris""",Favoris,8
+Défi 9,"""Sélectionner votre défi favoris""",Favoris,9
+Défi 10,"""Sélectionner votre défi favoris""",Favoris,10
+Défi 11,"""Sélectionner votre défi favoris""",Favoris,11
+Pas de préférence,"""Sélectionner votre défi favoris""",Favoris2,0
+Défi 1,"""Sélectionner votre défi favoris""",Favoris2,1
+Défi 2,"""Sélectionner votre défi favoris""",Favoris2,2
+Défi 3,"""Sélectionner votre défi favoris""",Favoris2,3
+Défi 4,"""Sélectionner votre défi favoris""",Favoris2,4
+Défi 5,"""Sélectionner votre défi favoris""",Favoris2,5
+Défi 6,"""Sélectionner votre défi favoris""",Favoris2,6
+Défi 7,"""Sélectionner votre défi favoris""",Favoris2,7
+Défi 8,"""Sélectionner votre défi favoris""",Favoris2,8
+Défi 9,"""Sélectionner votre défi favoris""",Favoris2,9
+Défi 10,"""Sélectionner votre défi favoris""",Favoris2,10
+Défi 11,"""Sélectionner votre défi favoris""",Favoris2,11

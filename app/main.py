@@ -77,16 +77,17 @@ p_id2badge = {p["id"]: p["badge"] for p in profiles}
 p_id2color = {p["id"]: p["color"] for p in profiles}
 
 defis = [
-    {"id": 0, "checked": False, "name": "Défi #1", "url": "http"},
-    {"id": 1, "checked": False, "name": "Défi #2", "url": "http"},
-    {"id": 2, "checked": False, "name": "Défi #3", "url": "http"},
-    {"id": 3, "checked": False, "name": "Défi #4", "url": "http"},
-    {"id": 4, "checked": False, "name": "Défi #5", "url": "http"},
-    {"id": 5, "checked": False, "name": "Défi #6", "url": "http"},
-    {"id": 6, "checked": False, "name": "Défi #7", "url": "http"},
-    {"id": 7, "checked": False, "name": "Défi #8", "url": "http"},
-    {"id": 8, "checked": False, "name": "Défi #9", "url": "http"},
-    {"id": 9, "checked": False, "name": "Défi #10", "url": "http"},
+    {"id": 0, "checked": False, "name": "Pas de préférence", "url": "http"},
+    {"id": 1, "checked": False, "name": "Défi #1", "url": "http"},
+    {"id": 2, "checked": False, "name": "Défi #2", "url": "http"},
+    {"id": 3, "checked": False, "name": "Défi #3", "url": "http"},
+    {"id": 4, "checked": False, "name": "Défi #4", "url": "http"},
+    {"id": 5, "checked": False, "name": "Défi #5", "url": "http"},
+    {"id": 6, "checked": False, "name": "Défi #6", "url": "http"},
+    {"id": 7, "checked": False, "name": "Défi #7", "url": "http"},
+    {"id": 8, "checked": False, "name": "Défi #8", "url": "http"},
+    {"id": 9, "checked": False, "name": "Défi #9", "url": "http"},
+    {"id": 10, "checked": False, "name": "Défi #10", "url": "http"},
 ]
 
 # load the profiles, questions, weights, answers
@@ -130,9 +131,6 @@ def get_questions(request: Request, order: str = "keep") -> List[QuestionForm]:
         # select the lowest value as the default answer
         q_form.question.data = q_form.question.choices[0][0]
         q_forms.append(q_form)
-    # randomize the order of questions
-    if order == "shuffle":
-        shuffle(q_forms)
     return q_forms
 
 
@@ -256,6 +254,9 @@ async def parse_form(request: Request, db: Session = Depends(get_db)) -> Respons
     db.refresh(db_user)
     # end store user badge(s)
 
+    print("-----------------")
+    print(defis)
+
     # return profile summary
     return templates.TemplateResponse(
         "summary.html",
@@ -282,6 +283,7 @@ async def parse_form(request: Request, db: Session = Depends(get_db)) -> Respons
 # form: post
 @app.post("/")
 async def submit_answers(summary: Response = Depends(parse_form)):
+    print(summary)
     return summary
 
 
@@ -311,6 +313,18 @@ def read_user(user_id: int, db: Session = Depends(get_db)):
 def create_answer_for_user(
     user_id: int, answer: schemas.AnswerCreate, db: Session = Depends(get_db)
 ):
+    print("-------------")
+    print(answer)
+    crud.create_user_answer(
+        db=db,
+        answer={
+            "profile": "favorites",
+            "question": "Défi favoris #1",
+            "description": "Défi #8",
+            "weight": 1,
+        },
+        user_id=user_id,
+    )
     return crud.create_user_answer(db=db, answer=answer, user_id=user_id)
 
 

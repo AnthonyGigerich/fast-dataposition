@@ -16,20 +16,15 @@
   Voici vos résultats au Dataposition :<br/><br/>
   <table>
     {% for p_id, p_score in profile_scores %}
-    <tr>
-      <td>Score sur le profil {{ p_id2name[p_id] }}&nbsp;</td>
-      <td>{{ p_score }}</td>
-    </tr>
+      {% if "Favoris" not in p_id2name[p_id] %}
+        <tr>
+          <td>Score sur le profil {{ p_id2name[p_id] }}&nbsp;</td>
+          <td>{{ p_score }}</td>
+        </tr>
+      {% endif %}
     {% endfor %}
   </table>
 </div>
-
-Vos défi favoris :
-{% for defi in defis %}
-<tr>
-defi.name
-</tr>
-{% endfor %}
 
 <div style="margin-top: 2em; margin-bottom: 2em;">
   Suite à ce questionnaire, vous recevrez un badge correspondant à votre profil sur

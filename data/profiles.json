@@ -34,5 +34,17 @@
         "name": "Pilote",
         "color": "#FBCF1A",
         "badge": "dataposition_pilote.png"
+    },
+    {
+        "id": "favoris",
+        "name": "Favoris",
+        "color": "#FBCF1A",
+        "badge": "dataposition_pilote.png"
+    },
+    {
+        "id": "favoris2",
+        "name": "Favoris2",
+        "color": "#FBCF1A",
+        "badge": "dataposition_pilote.png"
     }
 ]
