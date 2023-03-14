@@ -15,7 +15,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from sqlalchemy.orm import Session
 from starlette_wtf import StarletteForm
-from wtforms import FieldList, RadioField, FormField, StringField
+from wtforms import FieldList, RadioField, FormField, StringField, BooleanField
 from wtforms.validators import DataRequired, Email
 
 from . import crud, models, schemas
@@ -42,6 +42,7 @@ class DatapositionForm(StarletteForm):
     name = StringField("nom", validators=[DataRequired()])
     # https://wtforms.readthedocs.io/en/2.3.x/validators/?highlight=email#wtforms.validators.Email
     email = StringField("email", validators=[DataRequired(), Email()])
+    consent = BooleanField("consent", validators=[DataRequired()])
     questions = FieldList(FormField(QuestionForm))
 
 
