@@ -1,49 +1,61 @@
 [
     {
-        "id": "ambassadeur",
-        "name": "Ambassadeur",
+        "id": "geomaticien",
+        "name": "Géomaticien",
         "color": "#5982e0",
         "badge": "dataposition_ambassadeur.png"
     },
     {
-        "id": "analyste",
-        "name": "Analyste",
+        "id": "data_engineer",
+        "name": "Data Engineer",
         "color": "#009fa7",
         "badge": "dataposition_analyste.png"
     },
     {
-        "id": "batisseur",
-        "name": "Bâtisseur",
+        "id": "expert_data_journalism",
+        "name": "Expert Data Journalisme",
         "color": "#ba5655",
         "badge": "dataposition_batisseur.png"
     },
     {
-        "id": "creatif",
-        "name": "Créatif",
+        "id": "designer",
+        "name": "Designer",
         "color": "#465f9d",
         "badge": "dataposition_creatif.png"
     },
     {
-        "id": "expert",
-        "name": "Expert",
+        "id": "data_analyst",
+        "name": "Data Analyst",
         "color": "#00A95F",
         "badge": "dataposition_expert.png"
     },
     {
-        "id": "pilote",
-        "name": "Pilote",
+        "id": "data_scientist",
+        "name": "Data Scientist / Statisticiens",
         "color": "#b7a73f",
+        "badge": "dataposition_pilote.png"
+    },
+    {
+        "id": "dev_front",
+        "name": "Dev Front-End",
+        "color": "#5982e0",
+        "badge": "dataposition_pilote.png"
+    },
+    {
+        "id": "dev_full",
+        "name": "Dev Fullstack",
+        "color": "#009fa7",
+        "badge": "dataposition_pilote.png"
+    },
+    {
+        "id": "expert_tal",
+        "name": "Expert TAL",
+        "color": "#ba5655",
         "badge": "dataposition_pilote.png"
     },
     {
         "id": "favoris",
         "name": "Favoris",
-        "color": "#ce614a",
-        "badge": "dataposition_pilote.png"
-    },
-    {
-        "id": "favoris2",
-        "name": "Favoris2",
         "color": "#ce614a",
         "badge": "dataposition_pilote.png"
     }

@@ -1,170 +1,251 @@
 Valeur de réponse,Question,Profil,Pondération (1 à 4)
-J'ai une mauvaise connaissance des acteurs et de leurs besoins.,Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,0
-Je suis capable d'identifier les besoins et les contraintes de mes interlocuteurs.,Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,2
-Je suis capable d'identifier les besoins et d'adapter mon discours en fonction de mon interlocuteur.,Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,3
-Je suis capable d'adapter mon discours et de hiérarchiser mes arguments en fonction des besoins et des contraintes de mon interlocuteur.,Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,4
-"Avec un peu d'humour, j'arrive toujours à donner le change 😉.",Êtes-vous capable d'adapter votre argumentation en fonction du public auquel vous vous adressez ?,Ambassadeur,1
-Cela me motive et je relève le défi avec enthousiasme.,Parler en public vous semble-t-il une tâche simple et cela vous plaît-il de le faire ? ,Ambassadeur,4
-Je m'en sens capable si je ne suis pas seul face au public.,Parler en public vous semble-t-il une tâche simple et cela vous plaît-il de le faire ? ,Ambassadeur,2
-Parler en public me demande beaucoup de préparation.,Parler en public vous semble-t-il une tâche simple et cela vous plaît-il de le faire ? ,Ambassadeur,1
-"Je ne m'en sens pas capable, je préfère laisser cette tâche à quelqu'un d'autre.",Parler en public vous semble-t-il une tâche simple et cela vous plaît-il de le faire ? ,Ambassadeur,0
-Je l'ai déjà fait plusieurs fois mais le petit sentiment de stress est toujours là.,Parler en public vous semble-t-il une tâche simple et cela vous plaît-il de le faire ? ,Ambassadeur,3
-"Oui, je suis capable de les identifier et de les mettre en réseau pour les besoins de mon projet.",Saurez-vous identifier les interlocuteurs susceptibles d'être intéressés par le projet sur lequel vous allez travailler ?,Ambassadeur,4
-"Oui, j'ai déjà un bon carnet d'adresses que je sais mobiliser et je saurai le compléter.",Saurez-vous identifier les interlocuteurs susceptibles d'être intéressés par le projet sur lequel vous allez travailler ?,Ambassadeur,3
-J'ai déjà un petit carnet d'adresses de collaborateurs proches avec qui j'entretiens des relations privilégiées.,Saurez-vous identifier les interlocuteurs susceptibles d'être intéressés par le projet sur lequel vous allez travailler ?,Ambassadeur,2
-Je connais quelques personnes mais j'ai du mal à pérenniser mes rélations professionnelles.,Saurez-vous identifier les interlocuteurs susceptibles d'être intéressés par le projet sur lequel vous allez travailler ?,Ambassadeur,1
-Je ne connais personne dans ce domaine.,Saurez-vous identifier les interlocuteurs susceptibles d'être intéressés par le projet sur lequel vous allez travailler ?,Ambassadeur,0
-La contrainte est source de créativité : je relève le challenge avec enthousiasme !,Savez-vous présenter un projet en 180 secondes ?,Ambassadeur,4
-Je suis volontaire mais j'ai besoin d'aide.,Savez-vous présenter un projet en 180 secondes ?,Ambassadeur,2
-Je ne suis pas très à l'aise avec l'exercice.,Savez-vous présenter un projet en 180 secondes ?,Ambassadeur,1
-Je ne m'en sens pas vraiment capable.,Savez-vous présenter un projet en 180 secondes ?,Ambassadeur,0
-Je vais travailler pour y arriver ! Il faut une première fois à tout !,Savez-vous présenter un projet en 180 secondes ?,Ambassadeur,3
-LinkedIn : j'y poste mes présentations de travail pour donner à voir mes projets.,"""Si vous étiez un influenceur, sur quel réseau social auriez-vous construit votre réputation ?""",Ambassadeur,1
-Instagram : je manie le langage des images et je sais les associer aux bons mots-clés.,"""Si vous étiez un influenceur, sur quel réseau social auriez-vous construit votre réputation ?""",Ambassadeur,2
-"YouTube : je sais produire un discours vidéo rythmé, dynamique et efficace !","""Si vous étiez un influenceur, sur quel réseau social auriez-vous construit votre réputation ?""",Ambassadeur,3
-Je suis clairement multiplateforme ! J'aurais été partout !,"""Si vous étiez un influenceur, sur quel réseau social auriez-vous construit votre réputation ?""",Ambassadeur,4
-"Les réseaux sociaux, ça n'est pas du tout mon truc.","""Si vous étiez un influenceur, sur quel réseau social auriez-vous construit votre réputation ?""",Ambassadeur,0
-Je connais les courbes et les camemberts 🙂,Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Analyste,0
-Je connais les usages des formats de visualisation les plus courants. ,Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Analyste,2
-"Je connais des formats un peu plus rares comme le treemap (carte de carrés), le diagramme Sankey (branchage) ou la heat map (carte de chaleur) en tableau.",Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Analyste,3
-Je connais la grande majorité des formats de visualisation et je peux de tête choisir le format le plus adapté à mon usage.,Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Analyste,4
-Je connais les principaux formats de datavisualisations mais je ne sais pas forcément les choisir par rapport à un questionnement.,Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Analyste,1
-Je ne sais pas de quoi il s'agit.,Savez-vous modéliser ou prédire un phénomène à partir de données ?,Analyste,0
-Je sais ce que c'est mais je ne sais pas le faire.,Savez-vous modéliser ou prédire un phénomène à partir de données ?,Analyste,1
-"Oui, j'ai déjà réalisé des projets de modélisation ou de prédiction.",Savez-vous modéliser ou prédire un phénomène à partir de données ?,Analyste,3
-"Oui, je fais ça très régulièrement. On pourrait presque m'appeler le monsieur ou madame Irma de la data. ",Savez-vous modéliser ou prédire un phénomène à partir de données ?,Analyste,4
-Je n'en ai jamais fait mais je sais quels outils je pourrais utiliser pour le faire.,Savez-vous modéliser ou prédire un phénomène à partir de données ?,Analyste,2
-"Non, je ne sais pas vraiment ce que ça veut dire.",Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Analyste,0
-Je sais expliquer la différence entre les deux.,Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Analyste,1
-Je sais interpréter une droite de régression dans un nuage de points.,Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Analyste,3
-"Complètement, je sais calculer et interpréter un coefficient de corrélation entre deux variables.",Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Analyste,4
-Je sais avertir quand quelqu'un confond les deux : en interprétant mal un graphique par exemple.,Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Analyste,2
-Une jointure ?,Savez-vous réaliser une jointure entre deux jeux de données ? ,Analyste,0
-Non mais je sais ce que c'est et j'en connais l'utilité.,Savez-vous réaliser une jointure entre deux jeux de données ? ,Analyste,1
-"Oui, je l'ai déjà fait.",Savez-vous réaliser une jointure entre deux jeux de données ? ,Analyste,2
-"À l'aise Blaise, left join, inner join et right join n'ont plus de secret pour moi.",Savez-vous réaliser une jointure entre deux jeux de données ? ,Analyste,4
-"Une RECHERCHEV, les doigts dans le nez.",Savez-vous réaliser une jointure entre deux jeux de données ? ,Analyste,3
-Je saurais faire quelques corrections à la main dans un tableur.,Savez-vous transformer et préparer un jeu de données ?,Analyste,1
-"Un peu, j'ai déjà fait des tableaux croisés et appliqué des filtres dans un tableur.",Savez-vous transformer et préparer un jeu de données ?,Analyste,2
-"Oui, j'ai déjà recodé des variables, transformé des champs ou réalisé des transformations complexes d'un jeu de données.",Savez-vous transformer et préparer un jeu de données ?,Analyste,3
-"Complètement, je fais ça souvent. On pourrait presque m'appeler monsieur ou madame ""Propre"" des données.",Savez-vous transformer et préparer un jeu de données ?,Analyste,4
-Je ne crois pas.,Savez-vous transformer et préparer un jeu de données ?,Analyste,0
-Je sais ce que c'est mais je n'en ai jamais manipulé.,Que savez-vous sur les bases de données ?,Bâtisseur,1
-Je sais organiser les jeux de données par catégorie.,Que savez-vous sur les bases de données ?,Bâtisseur,2
-"Je connais un langage de gestion de base de données (SQL, MySQL, NoSQL...).",Que savez-vous sur les bases de données ?,Bâtisseur,3
-Je sais mettre en place et gérer un système de gestion de bases de données.,Que savez-vous sur les bases de données ?,Bâtisseur,4
-Je ne sais pas ce que c'est...,Que savez-vous sur les bases de données ?,Bâtisseur,0
-Je sais ce qu'est une métadonnée.,Savez-vous constituer un catalogue de données à partir des métadonnées ?,Bâtisseur,1
-Je rédige régulièrement des métadonnées.,Savez-vous constituer un catalogue de données à partir des métadonnées ?,Bâtisseur,2
-Je connais la Directive INSPIRE.,Savez-vous constituer un catalogue de données à partir des métadonnées ?,Bâtisseur,3
-Je sais rédiger des scripts qui permettent d'afficher un jeu de données dans un catalogue.,Savez-vous constituer un catalogue de données à partir des métadonnées ?,Bâtisseur,4
-C'est quoi une métadonnée ?,Savez-vous constituer un catalogue de données à partir des métadonnées ?,Bâtisseur,0
-Je ne connais aucun langage de développement.,"""Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)""",Bâtisseur,0
-Il m'est arrivé de faire du HTML/CSS pour des sites web.,"""Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)""",Bâtisseur,2
-"J'arrive à me débrouiller sur un langage (C++, C#, PHP, Python, javascript...).","""Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)""",Bâtisseur,3
-Je maîtrise parfaitement au moins un langage de développement.,"""Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)""",Bâtisseur,4
-"Je sais automatiser des processus avec des langages de blocs (comme Scratch) ou des outils comme Zapier, IFTT ou Integromat. Ça compte ?","""Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)""",Bâtisseur,1
-Je n'ai jamais produit de carte dynamique et je ne saurais pas comment faire.,Savez-vous utiliser les technologies pour réaliser une carte dynamique ?,Bâtisseur,0
-J'ai déjà utilisé Umap ou Google Maps pour mettre en ligne une carte dynamique sur un site web.,Savez-vous utiliser les technologies pour réaliser une carte dynamique ?,Bâtisseur,2
-"J'utilise des logiciels de datascience ou de géomatique pour créer des cartes dynamiques en ligne (R, QGis, ArcGis online...).",Savez-vous utiliser les technologies pour réaliser une carte dynamique ?,Bâtisseur,3
-Je participe très régulièrement au développement d'applications de webmapping.,Savez-vous utiliser les technologies pour réaliser une carte dynamique ?,Bâtisseur,4
-Je n'ai jamais produit de carte dynamique moi-même mais je connais des outils grand public qui me permettraient de le faire.,Savez-vous utiliser les technologies pour réaliser une carte dynamique ?,Bâtisseur,1
-Je ne sais pas comment fonctionne une API.,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Bâtisseur,1
-Je sais ce qu'est une API mais je ne sais pas rédiger une requête.,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Bâtisseur,2
-Je sais rédiger une requête simple.,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Bâtisseur,3
-Je crée des connexions via API très régulièrement.,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Bâtisseur,4
-Je ne sais pas ce qu'est une API.,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Bâtisseur,0
-"Je rêve encore d'un projet qui se déroule sans aucune contrainte : à chaque fois, j'imagine un truc chouette et les contraintes viennent tout gâcher...",Les contraintes liées à un projet et à son développement sont-elles pour vous de véritables freins ou des leviers de créativité ?,Créatif,1
-"Des contraintes, il y en a forcément ! C'est parfois dommage, mais je sais faire avec !",Les contraintes liées à un projet et à son développement sont-elles pour vous de véritables freins ou des leviers de créativité ?,Créatif,2
-"Hiérarchisons les contraintes et remontons-nous les manches ! À chaque problème, il y a une solution !",Les contraintes liées à un projet et à son développement sont-elles pour vous de véritables freins ou des leviers de créativité ?,Créatif,3
-"À l'image de Georges Perec qui a écrit La Disparition sans jamais utiliser la lettre E, je crois que la contrainte stimule l'imagination et la créativité !",Les contraintes liées à un projet et à son développement sont-elles pour vous de véritables freins ou des leviers de créativité ?,Créatif,4
-Vous vous inquiétez de la faisabilité du projet...,"""Lorsqu'on vous met face à un défi vraiment difficile, quelle est votre première réaction ?""",Créatif,1
-Vous demandez comment ?,"""Lorsqu'on vous met face à un défi vraiment difficile, quelle est votre première réaction ?""",Créatif,2
-Vous demandez pour qui ?,"""Lorsqu'on vous met face à un défi vraiment difficile, quelle est votre première réaction ?""",Créatif,3
-Vous demandez pour quand ?,"""Lorsqu'on vous met face à un défi vraiment difficile, quelle est votre première réaction ?""",Créatif,4
-Vous n'essayez pas pour ne pas perdre de temps.,"""Lorsqu'on vous met face à un défi vraiment difficile, quelle est votre première réaction ?""",Créatif,0
-La curiosité : avoir envie de découvrir et d'apprendre.,"""Parmi les soft skills suivantes, laquelle vous caractérise le mieux ?""",Créatif,1
-L'agilité : être capable de changer de posture et de stratégie rapidement.,"""Parmi les soft skills suivantes, laquelle vous caractérise le mieux ?""",Créatif,2
-La créativité : créer des connections entre les idées et les gens pour innover.,"""Parmi les soft skills suivantes, laquelle vous caractérise le mieux ?""",Créatif,3
-"L'audace : proposer des idées nouvelles, tenter et oser.","""Parmi les soft skills suivantes, laquelle vous caractérise le mieux ?""",Créatif,4
-Une Margherita : un classique que tout le monde aime !,"""Si vous deviez concevoir une pizza, elle ressemblerait à...""",Créatif,1
-Une Napolitaine : traditionnelle et savoureuse !,"""Si vous deviez concevoir une pizza, elle ressemblerait à...""",Créatif,2
-Une calzone : l'intérieur peut vous surprendre !,"""Si vous deviez concevoir une pizza, elle ressemblerait à...""",Créatif,3
-Une Hawaïenne : des ananas sur une pizza c'est original !,"""Si vous deviez concevoir une pizza, elle ressemblerait à...""",Créatif,4
-Playmobil ! Viens on va jouer avec les pirates !,"""Si vous deviez jouer avec des enfants aujourd'hui, que choisiriez-vous ?""",Créatif,1
-"Playmobil ! Viens, attaquons le camping car avec les pirates !","""Si vous deviez jouer avec des enfants aujourd'hui, que choisiriez-vous ?""",Créatif,3
-Lego ! Viens on va les construire en suivant le plan de montage !,"""Si vous deviez jouer avec des enfants aujourd'hui, que choisiriez-vous ?""",Créatif,2
-Lego ! Viens on va construire un avion pizza !,"""Si vous deviez jouer avec des enfants aujourd'hui, que choisiriez-vous ?""",Créatif,4
-"Pas du tout, je n'y connais rien.",Connaissez-vous les différentes aides existantes pour la rénovation énergétique ?,Expert,0
-"Vaguement, je dois en connaître une ou deux.",Connaissez-vous les différentes aides existantes pour la rénovation énergétique ?,Expert,1
-"Oui, je les connais ainsi que leurs conditions d'attribution.",Connaissez-vous les différentes aides existantes pour la rénovation énergétique ?,Expert,3
-"Parfaitement, j'accompagne la rédaction de dossiers de subventions.",Connaissez-vous les différentes aides existantes pour la rénovation énergétique ?,Expert,4
-"Oui je connais les principales, parfois avec leurs conditions d'attribution.",Connaissez-vous les différentes aides existantes pour la rénovation énergétique ?,Expert,2
-"Pas du tout, je n'ai jamais manipulé ce type de données.","""Êtes-vous à l'aise pour exploiter des données énergétiques (courbe de charge, consommation et puissance...) ?""",Expert,0
-"Un peu, j'ai quelques notions.","""Êtes-vous à l'aise pour exploiter des données énergétiques (courbe de charge, consommation et puissance...) ?""",Expert,1
-"Assez, je l'ai déjà fait quelques fois.","""Êtes-vous à l'aise pour exploiter des données énergétiques (courbe de charge, consommation et puissance...) ?""",Expert,2
-"Oui vraiment, j'utilise régulièrement ce type de données.","""Êtes-vous à l'aise pour exploiter des données énergétiques (courbe de charge, consommation et puissance...) ?""",Expert,3
-"Complètement, ces données n'ont aucun secret pour moi !","""Êtes-vous à l'aise pour exploiter des données énergétiques (courbe de charge, consommation et puissance...) ?""",Expert,4
-Je sais ce que c'est mais je n'y connais pas grand chose.,Êtes-vous familier avec les problématiques de la précarité énergétique ?,Expert,1
-"Un peu, j'ai quelques notions.",Êtes-vous familier avec les problématiques de la précarité énergétique ?,Expert,2
-"Oui, j'ai déjà travaillé sur ces questions.",Êtes-vous familier avec les problématiques de la précarité énergétique ?,Expert,3
-"Complètement, c'est le cœur de mon activité de tous les jours.",Êtes-vous familier avec les problématiques de la précarité énergétique ?,Expert,4
-Je ne sais pas ce que c'est.,Êtes-vous familier avec les problématiques de la précarité énergétique ?,Expert,0
-"Excellente, c'est le cœur de mon activité professionnelle.",Quelle est votre connaissance du marché de la rénovation énergétique ?,Expert,4
-"Je peux énumérer les acteurs (et pas que les plus évidents), je connais les grands enjeux.",Quelle est votre connaissance du marché de la rénovation énergétique ?,Expert,3
-Je peux énumérer quelques acteurs et je connais des enjeux.,Quelle est votre connaissance du marché de la rénovation énergétique ?,Expert,2
-Je sais qu'il y a des artisans qui font des travaux... 😅,Quelle est votre connaissance du marché de la rénovation énergétique ?,Expert,0
-Je connais les principaux acteurs du marché.,Quelle est votre connaissance du marché de la rénovation énergétique ?,Expert,1
-"Pas du tout, je n'y connais rien.",Sauriez-vous conseiller quelqu'un sur des travaux de rénovation ?,Expert,0
-J'ai fait quelques travaux de rénovation chez moi et je peux en tirer quelques bons conseils.,Sauriez-vous conseiller quelqu'un sur des travaux de rénovation ?,Expert,1
-Je connais les travaux les plus faciles et impactants.,Sauriez-vous conseiller quelqu'un sur des travaux de rénovation ?,Expert,3
-Je peux identifier les travaux les plus rentables et impactants à partir des caractéristiques du bâtiment concerné.,Sauriez-vous conseiller quelqu'un sur des travaux de rénovation ?,Expert,4
-J'ai quelques ordres de grandeur.,Sauriez-vous conseiller quelqu'un sur des travaux de rénovation ?,Expert,2
-"Dans certaines situations (la fatigue par exemple), j'ai du mal à gérer mes émotions.",Comment gérez-vous les émotions ?,Pilote,1
-Je sais gérer mes émotions mais pas forcément celles des autres.,Comment gérez-vous les émotions ?,Pilote,2
-Je sais gérer mes émotions et celles des autres.,Comment gérez-vous les émotions ?,Pilote,3
-Je sais gérer mes émotions et celles des autres jusqu'à prévenir les moments de tension.,Comment gérez-vous les émotions ?,Pilote,4
-Haha ! Je ne les gère pas 😅.,Comment gérez-vous les émotions ?,Pilote,0
-Pour bien travailler j'ai besoin que l'on me confie une tâche claire pour une date précise.,"""Dans le cadre d'un travail d'équipe, préférez-vous être la personne à qui on attribue une tâche claire et planifiée ou celle qui s'assure de la maîtrise du temps et des délais ?""",Pilote,1
-Je suis à l'aise avec le fait de travailler sur une tâche qui peut dépendre du travail de quelqu'un d'autre.,"""Dans le cadre d'un travail d'équipe, préférez-vous être la personne à qui on attribue une tâche claire et planifiée ou celle qui s'assure de la maîtrise du temps et des délais ?""",Pilote,2
-"J'aime travailler sur une mission de groupe sans date précise, parfois même dans l'urgence.","""Dans le cadre d'un travail d'équipe, préférez-vous être la personne à qui on attribue une tâche claire et planifiée ou celle qui s'assure de la maîtrise du temps et des délais ?""",Pilote,3
-J'organise le travail de l'équipe entière tout en m'attribuant des tâches personnelles.,"""Dans le cadre d'un travail d'équipe, préférez-vous être la personne à qui on attribue une tâche claire et planifiée ou celle qui s'assure de la maîtrise du temps et des délais ?""",Pilote,4
-"Je ne sais pas ce que c'est, je n'en ai jamais fait...",Sauriez-vous animer un atelier d'idéation ?,Pilote,0
-J'ai déjà participé à ce genre d'ateliers mais je ne crois pas être capable d'en animer un... Peut-être avec l'aide de quelqu'un d'autre ?,Sauriez-vous animer un atelier d'idéation ?,Pilote,1
-J'ai déjà participé à ce genre d'ateliers et je pense être capable d'en animer un.,Sauriez-vous animer un atelier d'idéation ?,Pilote,2
-"J'ai déjà animé ce genre d'ateliers, je peux tout à fait le refaire !",Sauriez-vous animer un atelier d'idéation ?,Pilote,4
-Le design thinking n'a pas de secret pour moi ! Je peux adapter le dispositif à toute situation grâce à mon expérience.,Sauriez-vous animer un atelier d'idéation ?,Pilote,5
-J'ai du mal à identifier les compétences des personnes avec qui je travaille.,Savez-vous identifier les compétences de vos collaborateurs ?,Pilote,0
-Je suis capable d'identifier rapidement les compétences techniques des personnes avec qui je travaille.,Savez-vous identifier les compétences de vos collaborateurs ?,Pilote,2
-Je sais identifier les compétences techniques et comportementales des personnes avec qui je travaille.,Savez-vous identifier les compétences de vos collaborateurs ?,Pilote,3
-Je sais évaluer rapidement la complémentarité des compétences de mes collaborateurs.,Savez-vous identifier les compétences de vos collaborateurs ?,Pilote,4
-"Avec un peu de temps, sans doute !",Savez-vous identifier les compétences de vos collaborateurs ?,Pilote,1
-Je tranche pour ne pas perdre de temps.,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,1
-Je rédige une proposition alternative qui pourrait faire consensus.,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,2
-Je tente de faire discuter l'équipe en vue d'un consensus.,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,3
-J'organise un brainstorming avec l'équipe pour dégager une idée qui dépasse les propositions individuelles.,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,4
-Qu'ils se débrouillent !,"""Si plusieurs idées divergentes émergent de vos collaborateurs, êtes-vous plutôt du genre à trancher ou à fédérer les idées ?""",Pilote,0
+Ça ne me dit rien,Que signifie SIG pour vous ?,Géomaticien,0
+"Je crois que ça a un rapport avec des cartes, mais je n'en sais pas plus",Que signifie SIG pour vous ?,Géomaticien,1
+J'ai déjà utilisé des données issues d'un Système d'Informations Géographiques,Que signifie SIG pour vous ?,Géomaticien,2
+"Je connais bien les SIG, j'utilise fréquemment des données géographiques complexes",Que signifie SIG pour vous ?,Géomaticien,3
+J'ai déjà administré un SIG,Que signifie SIG pour vous ?,Géomaticien,4
+Jamais entendu parler !,Savez-vous ce qu'est un système de coordonnées ?,Géomaticien,0
+"C'est quelque chose en rapport avec la latitude et la longitude, non ?",Savez-vous ce qu'est un système de coordonnées ?,Géomaticien,1
+J'ai déjà créé des cartes numériques donc ça me parle,Savez-vous ce qu'est un système de coordonnées ?,Géomaticien,2
+Je passe facilement du WGS84 au Lambert 93,Savez-vous ce qu'est un système de coordonnées ?,Géomaticien,3
+J'ai créé un package de transformation entre systèmes géodésiques,Savez-vous ce qu'est un système de coordonnées ?,Géomaticien,4
+Je ne sais pas vraiment,Quels sont pour vous les caractéristiques les plus importantes d'une carte ?,Géomaticien,0
+Qu'elle indique les lieux où je veux aller et qu'elle tienne dans ma poche !,Quels sont pour vous les caractéristiques les plus importantes d'une carte ?,Géomaticien,1
+Qu'elle représente fidèlement le territoire et possède une légende,Quels sont pour vous les caractéristiques les plus importantes d'une carte ?,Géomaticien,2
+Qu'elle soit crowd-sourcée et vérifiée,Quels sont pour vous les caractéristiques les plus importantes d'une carte ?,Géomaticien,3
+Qu'elle soit construite avec des référentiels adaptés et soit interopérable,Quels sont pour vous les caractéristiques les plus importantes d'une carte ?,Géomaticien,4
+Je ne sais pas,"Pour vous, c'est quoi une donnée brute ?",Data Engineer,0
+C'est une donnée qui a plein de problèmes,"Pour vous, c'est quoi une donnée brute ?",Data Engineer,1
+C'est une donnée qui n'a pas encore été raffinée,"Pour vous, c'est quoi une donnée brute ?",Data Engineer,2
+C'est une donnée qui a du potentiel mais qui n'est pas encore prête à être utilisée,"Pour vous, c'est quoi une donnée brute ?",Data Engineer,3
+"C'est mon quotidien, j'adore les données brutes !","Pour vous, c'est quoi une donnée brute ?",Data Engineer,4
+Pas du tout !,"Un pipeline, ça vous parle ?",Data Engineer,0
+"C'est les tuyaux dans lesquels passent le pétrole et le gaz, non ?","Un pipeline, ça vous parle ?",Data Engineer,1
+"C'est un procédé de traitement des données, mais j'en sais pas plus","Un pipeline, ça vous parle ?",Data Engineer,2
+C'est la façon dont les données vont de leur source vers une data warehouse,"Un pipeline, ça vous parle ?",Data Engineer,3
+C'est ce que je mets en place tous les jours,"Un pipeline, ça vous parle ?",Data Engineer,4
+Aucune idée,Quel est le rôle d'un data engineer ?,Data Engineer,0
+"À mon avis, il doit travailler sur des données",Quel est le rôle d'un data engineer ?,Data Engineer,1
+Il collecte les données et il les traite,Quel est le rôle d'un data engineer ?,Data Engineer,2
+C'est un maillon important dans le cycle de vie de la donnée,Quel est le rôle d'un data engineer ?,Data Engineer,3
+"Sans lui, les analystes de données auront du fil à retordre !",Quel est le rôle d'un data engineer ?,Data Engineer,4
+Absolument pas,Vous avez déjà vu un lac de données ?,Data Engineer,0
+C’est la même chose qu’une ferme de serveurs ?,Vous avez déjà vu un lac de données ?,Data Engineer,1
+"Je connais les bases de données, mais un lac ça ne me dit rien",Vous avez déjà vu un lac de données ?,Data Engineer,2
+J’ai déjà utilisé une ressource centralisant des données structurées et non structurées,Vous avez déjà vu un lac de données ?,Data Engineer,3
+"En tant que data architect, je conçois des data lakes au petit déjeuner",Vous avez déjà vu un lac de données ?,Data Engineer,4
+Pas du tout,"Le storytelling, ça vous parle ?",Expert Data Journalisme,0
+"Raconter des histoires, je ne vois pas le rapport avec les données environnementales","Le storytelling, ça vous parle ?",Expert Data Journalisme,1
+Ça m’évoque surtout un mot à la mode décrivant la manière qu’ont les consultants et professionnels de la communication de présenter les choses,"Le storytelling, ça vous parle ?",Expert Data Journalisme,2
+"Pour améliorer l’impact sur le public cible, il faut adapter le discours et présenter les différents éléments en une suite logique","Le storytelling, ça vous parle ?",Expert Data Journalisme,3
+"C’est ce que je fais tous les jours, au boulot et en dehors, pour mieux convaincre !","Le storytelling, ça vous parle ?",Expert Data Journalisme,4
+C’est le première fois que j’entends ce terme,Vous pensez quoi du data journalisme ?,Expert Data Journalisme,0
+"Je ne suis pas sûr de ce dont il s’agit, mais je pense que c’est bien d’utiliser des données",Vous pensez quoi du data journalisme ?,Expert Data Journalisme,1
+C’est très important d’avoir des articles qui mobilisent des données adaptées,Vous pensez quoi du data journalisme ?,Expert Data Journalisme,2
+Je me connecte tous les matins sur datajournalism.com pour voir ce qu’il y a de nouveau,Vous pensez quoi du data journalisme ?,Expert Data Journalisme,3
+"Convaincre à partir de données en élaborant un fil logique et des dataviz, c’est ce que je fais tout le temps !",Vous pensez quoi du data journalisme ?,Expert Data Journalisme,4
+"Vraiment, ces choses là ne me parlent pas","Quand on vous demande de choisir entre 4 logos réalisés via une AI, votre réponse est :",Designer,0
+"Le bleu, j’adore le bleu, je choisis toujours le bleu","Quand on vous demande de choisir entre 4 logos réalisés via une AI, votre réponse est :",Designer,1
+Je choisis celui qui me semble le plus sympa,"Quand on vous demande de choisir entre 4 logos réalisés via une AI, votre réponse est :",Designer,2
+Je demande le contexte pour faire un choix éclairé : sens et lisibilité sont les critères les plus importants,"Quand on vous demande de choisir entre 4 logos réalisés via une AI, votre réponse est :",Designer,3
+"Aucun n’est lisible en petit ou en monochrome, ce serait dommage d’en choisir un et de devoir revoir tous les éléments de com’ dans 3 mois. ","Quand on vous demande de choisir entre 4 logos réalisés via une AI, votre réponse est :",Designer,4
+"Je remercie l’assistance, ce n’est pas mon domaine","En réunion, le prochain point va permettre de créer l’équipe design pour le nouveau logiciel qui sort le mois prochain",Designer,0
+Je reste car mon expertise métier est importante pour eux mais je ne toucherai pas la souris pour faire quoi que ce soit,"En réunion, le prochain point va permettre de créer l’équipe design pour le nouveau logiciel qui sort le mois prochain",Designer,1
+"J’aime bien ces choses là, sans être expert, je pense pouvoir apprendre des autres si je fais partie de l’équipe","En réunion, le prochain point va permettre de créer l’équipe design pour le nouveau logiciel qui sort le mois prochain",Designer,2
+"Le design c’est pour moi, ce que je produis est apprécié, parfois je dois juste simplifier car je m’emballe dans les détails","En réunion, le prochain point va permettre de créer l’équipe design pour le nouveau logiciel qui sort le mois prochain",Designer,3
+"Cette équipe est la mienne, je maîtrise la technique comme les tests utilisateurs ","En réunion, le prochain point va permettre de créer l’équipe design pour le nouveau logiciel qui sort le mois prochain",Designer,4
+Aucune idée,Quelle est la différence entre un UI et un UX designer ?,Designer,0
+"C’est différent, ils font du design mais je n’en sais pas plus",Quelle est la différence entre un UI et un UX designer ?,Designer,1
+"UI = User Interface, UX = User Experience, donc on pense utilisateur, mais donner une définition, je n’en suis pas capable",Quelle est la différence entre un UI et un UX designer ?,Designer,2
+"L’UI designer fait la partie visible, l’UX designer améliore l’expérience “générale”",Quelle est la différence entre un UI et un UX designer ?,Designer,3
+"L'UI est la partie ""visible"", ""perceptible"" d'un produit : c'est ce que l'on voit, entend, touche lorsque l'on utilise une application mobile, par exemple ; l'UX est un mix de parties visibles + parties invisibles qui, ensemble, contribuent à l'expérience globale de l'utilisateur sur l'application mobile",Quelle est la différence entre un UI et un UX designer ?,Designer,4
+Aucun,"Techniquement, quels logiciels de design maitrisez vous ?",Designer,0
+"Powerpoint, Googleslide, LibreOffice Impress…","Techniquement, quels logiciels de design maitrisez vous ?",Designer,1
+"Canva ou similaires comme PicMonkey, Visme, RelayThat…","Techniquement, quels logiciels de design maitrisez vous ?",Designer,2
+"J’utilise sans maîtriser totalement la suite Adobe (Photoshop, Illustrator, Adobe XD), Figma, ou bien des équivalents libres (Gimp, Inkscape)…","Techniquement, quels logiciels de design maitrisez vous ?",Designer,3
+Je passe mes journées sur ces logiciels et mes clients - collègues sont très satisfaits !,"Techniquement, quels logiciels de design maitrisez vous ?",Designer,4
+Absolument pas !,"Savez-vous reconnaître des données propres, “tidy data” ?",Data Analyst,0
+"Non, je ne sais pas ce qu’est une donnée propre.","Savez-vous reconnaître des données propres, “tidy data” ?",Data Analyst,1
+Je sais qu’elles ont un format particulier mais j’ignore lequel.,"Savez-vous reconnaître des données propres, “tidy data” ?",Data Analyst,2
+Je sais qu’elles doivent être composées d’observations en lignes et de variables en colonnes avec une seule valeur par “case”,"Savez-vous reconnaître des données propres, “tidy data” ?",Data Analyst,3
+"J’en utilise au quotidien, et lorsqu’elles ne le sont pas, je les rends propres !","Savez-vous reconnaître des données propres, “tidy data” ?",Data Analyst,4
+Je ne crois pas,Savez-vous transformer et préparer un jeu de données ?,Data Analyst,0
+Je saurais faire quelques corrections à la main dans un tableur,Savez-vous transformer et préparer un jeu de données ?,Data Analyst,1
+"Un peu, j'ai déjà fait des tableaux croisés et appliqué des filtres dans un tableur",Savez-vous transformer et préparer un jeu de données ?,Data Analyst,2
+"Oui, j'ai déjà recodé des variables, transformé des champs ou réalisé des transformations complexes d'un jeu de données",Savez-vous transformer et préparer un jeu de données ?,Data Analyst,3
+"Complètement, je fais ça souvent. On pourrait presque m'appeler monsieur ou madame ""Propre"" des données",Savez-vous transformer et préparer un jeu de données ?,Data Analyst,4
+"Non, je ne sais pas du tout programmer",Avez-vous des connaissances dans des langages d’automatisation et de manipulation de données ? (Python / R / Autres),Data Analyst,0
+J’ai déjà rapidement touché à ce type de langages,Avez-vous des connaissances dans des langages d’automatisation et de manipulation de données ? (Python / R / Autres),Data Analyst,1
+J’ai des connaissances de base,Avez-vous des connaissances dans des langages d’automatisation et de manipulation de données ? (Python / R / Autres),Data Analyst,2
+Je travaille régulièrement avec ce type de langages,Avez-vous des connaissances dans des langages d’automatisation et de manipulation de données ? (Python / R / Autres),Data Analyst,3
+Je suis un expert de l’automatisation.,Avez-vous des connaissances dans des langages d’automatisation et de manipulation de données ? (Python / R / Autres),Data Analyst,4
+Absolument pas !,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Data Analyst,0
+"Non, je ne sais pas ce qu’est une API",Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Data Analyst,1
+Je sais ce qu'est une API mais je ne sais pas rédiger une requête,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Data Analyst,2
+Je sais rédiger une requête simple,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Data Analyst,3
+Je crée des connexions via API très régulièrement,Savez-vous utiliser une API et requêter des données de manière ponctuelle ou régulière ?,Data Analyst,4
+Je connais les courbes et les camemberts,Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Data Analyst,0
+Je connais les principaux formats de datavisualisations mais je ne sais pas forcément les choisir par rapport à un questionnement.,Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Data Analyst,1
+Je connais les usages des formats de visualisation les plus courants,Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Data Analyst,2
+"Je connais des formats un peu plus rares comme le treemap (carte de carrés), le diagramme Sankey (branchage) ou la heatmap (carte de chaleur) en tableau",Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Data Analyst,3
+"J’ai un oeil critique sur les dataviz que je vois et je lis régulièrement des livres et articles spécialisés (Edward Tufte, Kieran Healy, Stephanie Evergreen etc.)",Savez-vous choisir un format de visualisation en fonction d'un questionnement de données ?,Data Analyst,4
+Pas du tout !,Savez-vous réaliser une jointure entre deux jeux de données ? ,Data Analyst,0
+"Je sais ce que c'est et j'en connais l'utilité, mais jamais pratiqué",Savez-vous réaliser une jointure entre deux jeux de données ? ,Data Analyst,1
+"Oui, j’ai déjà croisé plusieurs tables ensemble à l’aide d’un identifiant commun",Savez-vous réaliser une jointure entre deux jeux de données ? ,Data Analyst,2
+"Bien sûr, left join, inner join et right join n'ont plus de secret pour moi",Savez-vous réaliser une jointure entre deux jeux de données ? ,Data Analyst,3
+"Je maîtrise le croisement de données, je sais même faire un appariement probabiliste !",Savez-vous réaliser une jointure entre deux jeux de données ? ,Data Analyst,4
+"Non, je ne sais pas vraiment ce que ça veut dire",Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Data Analyst,0
+Je sais expliquer la différence entre les deux,Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Data Analyst,1
+Je sais interpréter une droite de régression dans un nuage de points,Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Data Analyst,2
+"Complètement, je sais calculer et interpréter un coefficient de corrélation entre deux variables",Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Data Analyst,3
+Je maîtrise l’analyse causale et les méthodologies adaptées (essai contrôlé randomisé etc.),Savez-vous présenter la différence entre une corrélation et une causalité dans le champ statistique ?,Data Analyst,4
+Un outil que j’utilise de temps en temps ,Pour vous Excel c’est…,Data Analyst,0
+"L’outil d’analyse que j’utilise au quotidien, puissant mais sous utilisé",Pour vous Excel c’est…,Data Analyst,1
+Un outil pratique mais limité dans ses possibilités,Pour vous Excel c’est…,Data Analyst,2
+"La 2 chevaux des voitures, robuste mais sans plus",Pour vous Excel c’est…,Data Analyst,3
+Un outil qui n’a pas sa place dans mes manipulations de données quotidiennes,Pour vous Excel c’est…,Data Analyst,4
+Je ne sais absolument pas faire ça ! ,Savez-vous modéliser / prédire un phénomène à partir de données ?,Data Analyst,0
+Je sais ce qu’est et à quoi sert une modélisation mais ne sais pas l’appliquer,Savez-vous modéliser / prédire un phénomène à partir de données ?,Data Analyst,1
+J’applique des régressions linéaires de temps à autre,Savez-vous modéliser / prédire un phénomène à partir de données ?,Data Analyst,2
+Je sais quel modèle utiliser selon le format de la variable dépendante,Savez-vous modéliser / prédire un phénomène à partir de données ?,Data Analyst,3
+"Je maîtrise la modélisation de phénomènes complexes, le choix du meilleur modèle et la prévision",Savez-vous modéliser / prédire un phénomène à partir de données ?,Data Analyst,4
+Absolument pas,Savez-vous communiquer efficacement sur les résultats de vos analyses ?,Data Analyst,0
+"Non, c’est une équipe dédiée qui se charge de la communication",Savez-vous communiquer efficacement sur les résultats de vos analyses ?,Data Analyst,1
+Je rédige des rapports Word pour résumer mes analyses,Savez-vous communiquer efficacement sur les résultats de vos analyses ?,Data Analyst,2
+"J’utilise des formats tels que Latex, Markdown pour rédiger et mettre en page les résultats",Savez-vous communiquer efficacement sur les résultats de vos analyses ?,Data Analyst,3
+"Tableaux de bord, applications automatisées et pages HTML n’ont plus aucun secret pour moi",Savez-vous communiquer efficacement sur les résultats de vos analyses ?,Data Analyst,4
+Je ne manipule mes données que sur Excel,Quel(s) type(s) de données savez-vous manipuler ?,Data Scientist / Statisticiens,0
+Je sais manipuler/transformer/représenter (R/Python) des données tabulaires,Quel(s) type(s) de données savez-vous manipuler ?,Data Scientist / Statisticiens,1
+Je maîtrise les packages spécifiques au traitement de données (ex : Panda),Quel(s) type(s) de données savez-vous manipuler ?,Data Scientist / Statisticiens,2
+"Je sais traiter des données non structurées (texte,  images (2D/3D/4D))",Quel(s) type(s) de données savez-vous manipuler ?,Data Scientist / Statisticiens,3
+Je sais changer la dimensionnalité de mes données sans perte d’information,Quel(s) type(s) de données savez-vous manipuler ?,Data Scientist / Statisticiens,4
+Aucune !,Quelles sont vos connaissances en modèles prédictifs ?,Data Scientist / Statisticiens,0
+J'ai déjà exécuté du code python/R pour entraîner un modèle de classification avec une régression linéaire,Quelles sont vos connaissances en modèles prédictifs ?,Data Scientist / Statisticiens,1
+Je sais choisir le modèle de classification et de régression adapté à mes données,Quelles sont vos connaissances en modèles prédictifs ?,Data Scientist / Statisticiens,2
+Je sais modifier un modèle de classification et de régression pour répondre à une problématique,Quelles sont vos connaissances en modèles prédictifs ?,Data Scientist / Statisticiens,3
+Je sais jouer avec mes données (ex : réduction de dimension) pour pouvoir utiliser/modifier des modèles de classifications et de régressions complexes,Quelles sont vos connaissances en modèles prédictifs ?,Data Scientist / Statisticiens,4
+Je sais retoucher mes photos sur mon téléphone,Quelles sont vos compétences en traitement automatique d’images?,Data Scientist / Statisticiens,0
+"Je sais ouvrir des images en Python, les transformer en objet numpy et utiliser quelques fonctions simples (conversion en niveau de gris, seuillage)",Quelles sont vos compétences en traitement automatique d’images?,Data Scientist / Statisticiens,1
+"Je sais utiliser des fonctions de type détection de contours, algorithmes de clustering, amélioration de contraste, traitement par histogramme",Quelles sont vos compétences en traitement automatique d’images?,Data Scientist / Statisticiens,2
+Je sais développer un algorithme de segmentation spécifique à mon problème,Quelles sont vos compétences en traitement automatique d’images?,Data Scientist / Statisticiens,3
+"Je suis expert : classification automatique, méthodes inverses",Quelles sont vos compétences en traitement automatique d’images?,Data Scientist / Statisticiens,4
+Aucune !,"Avez-vous une expérience en programmation HTML, CSS et JavaScript ?",Dev Front-End,0
+"Non, je n’ai jamais utilisé ces langages mais j’ai déjà vu ces noms quelque part","Avez-vous une expérience en programmation HTML, CSS et JavaScript ?",Dev Front-End,1
+"Je connais les bases de ces langages, j’avais même essayé de faire un site web à la main","Avez-vous une expérience en programmation HTML, CSS et JavaScript ?",Dev Front-End,2
+Je suis à l'aise avec ces langages et j'ai déjà réalisé plusieurs projets avec,"Avez-vous une expérience en programmation HTML, CSS et JavaScript ?",Dev Front-End,3
+Je suis un expert des langages et frameworks front-end !,"Avez-vous une expérience en programmation HTML, CSS et JavaScript ?",Dev Front-End,4
+Pas du tout !,Connaissez-vous les principes du Responsive Web Design ?,Dev Front-End,0
+"J’en ai déjà entendu parlé, mais sans jamais pratiquer",Connaissez-vous les principes du Responsive Web Design ?,Dev Front-End,1
+"C'est quand mon site internet s'adapte à toutes les tailles d'écrans, mais j'ai pas encore compris comment faire",Connaissez-vous les principes du Responsive Web Design ?,Dev Front-End,2
+"Oui, je les ai déjà appliquées lors de la création d’un site web",Connaissez-vous les principes du Responsive Web Design ?,Dev Front-End,3
+"C'est ma spécialité, j'ai même réussi à rendre mon site responsive pour Netscape sur un Windows 98",Connaissez-vous les principes du Responsive Web Design ?,Dev Front-End,4
+Absolument pas !,Avez-vous déjà entendu parlé du DOM (Document Object Model) ?,Dev Front-End,0
+C’est en rapport avec les pages web non ?,Avez-vous déjà entendu parlé du DOM (Document Object Model) ?,Dev Front-End,1
+"J’ai des notions sur le DOM, c’est un peu la structure des objets sur une page web, mais je n’ai jamais eu à m’en servir",Avez-vous déjà entendu parlé du DOM (Document Object Model) ?,Dev Front-End,2
+"Bien sûr, difficile d’y échapper lorsqu’on développe un site web",Avez-vous déjà entendu parlé du DOM (Document Object Model) ?,Dev Front-End,3
+"Je suis développeur web, utiliser le DOM, c’est mon quotidien",Avez-vous déjà entendu parlé du DOM (Document Object Model) ?,Dev Front-End,4
+Je ne connais aucun langage de développement,"Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)",Dev Fullstack,0
+Il m'est arrivé de faire du HTML/CSS pour des sites web,"Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)",Dev Fullstack,1
+"J'arrive à me débrouiller sur un langage (C++, C#, PHP, Python, javascript...)","Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)",Dev Fullstack,2
+"C'est mon métier, je maîtrise parfaitement au moins un langage de développement","Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)",Dev Fullstack,3
+Je sais automatiser des processus avec des langages de blocs (comme Scratch) ou des outils comme Zapier IFTT ou Integromat.,"Savez-vous créer un prototype de programme ? (requête et transformation de données en visualisation, en page web...)",Dev Fullstack,4
+Je n’en ai jamais entendu parler,Avez-vous déjà entendu parler de « Génie Logiciel » ou de « Patron de conception » ?,Dev Fullstack,0
+J’ai une petite idée de ce que cela peut être,Avez-vous déjà entendu parler de « Génie Logiciel » ou de « Patron de conception » ?,Dev Fullstack,1
+Je connais ces concepts mais je n’ai jamais eu l’occasion de les utiliser,Avez-vous déjà entendu parler de « Génie Logiciel » ou de « Patron de conception » ?,Dev Fullstack,2
+Oui ce sont des concepts que je connais et que j’essaye d’appliquer à mes projets !,Avez-vous déjà entendu parler de « Génie Logiciel » ou de « Patron de conception » ?,Dev Fullstack,3
+"Les standards IEEE,  les observeurs ou encore les médiateurs n’ont aucun secret pour moi !",Avez-vous déjà entendu parler de « Génie Logiciel » ou de « Patron de conception » ?,Dev Fullstack,4
+"Non, aucune !",Avez-vous une expérience en développement de back-end ?,Dev Fullstack,0
+"Je sais ce que c’est, mais je n’ai jamais développé un back-end",Avez-vous une expérience en développement de back-end ?,Dev Fullstack,1
+J’ai des connaissances basiques en PHP et SQL,Avez-vous une expérience en développement de back-end ?,Dev Fullstack,2
+J’ai déjà eu l’occasion de mettre en place des back-end dans mes projets,Avez-vous une expérience en développement de back-end ?,Dev Fullstack,3
+"Bien sûr, j'ai des compétences avancées dans plusieurs langages de programmation back-end, tels que Python, Java, et Node.js",Avez-vous une expérience en développement de back-end ?,Dev Fullstack,4
+Je ne sais pas de quoi il s’agit !,"Êtes-vous à l'aise avec les représentations vectorielles des mots, des phrases et des documents (word/sentence/document embeddings) ?",Expert TAL,0
+Je sais que j'ai déjà utilisé des systèmes qui exploitent ces représentations et je comprends l'idée générale,"Êtes-vous à l'aise avec les représentations vectorielles des mots, des phrases et des documents (word/sentence/document embeddings) ?",Expert TAL,1
+Je sais utiliser des représentations vectorielles de mots pour réaliser une ou plusieurs tâches,"Êtes-vous à l'aise avec les représentations vectorielles des mots, des phrases et des documents (word/sentence/document embeddings) ?",Expert TAL,2
+Je connais les principaux types de représentations vectorielles et je sais utiliser la ressource la plus pertinente pour une tâche donnée,"Êtes-vous à l'aise avec les représentations vectorielles des mots, des phrases et des documents (word/sentence/document embeddings) ?",Expert TAL,3
+"J'entraîne des représentations vectorielles de mots/phrases/documents tous les jours, je connais les meilleures valeurs de seed, le nombre et la largeur des couches","Êtes-vous à l'aise avec les représentations vectorielles des mots, des phrases et des documents (word/sentence/document embeddings) ?",Expert TAL,4
+Je n’en ai jamais entendu parler,"Les modèles de langages, ça vous parle ?",Expert TAL,0
+Je crois que j’ai lu ça quelque part,"Les modèles de langages, ça vous parle ?",Expert TAL,1
+"Ahhh je sais, Chat GPT ! J’ai même essayé de l’utiliser, mais un peu déçu.e du résultat.","Les modèles de langages, ça vous parle ?",Expert TAL,2
+Je vois bien ce que sont les modèles de langages et il m’arrive de tester des modèles existants.,"Les modèles de langages, ça vous parle ?",Expert TAL,3
+"Les modèles de langages, ça me connait ! Je peux les paramétrer et les entraîner sur mes propres corpus, voire même les améliorer.","Les modèles de langages, ça vous parle ?",Expert TAL,4
 Pas de préférence,"""Sélectionner votre défi favoris""",Favoris,0
-Défi 1,"""Sélectionner votre défi favoris""",Favoris,1
-Défi 2,"""Sélectionner votre défi favoris""",Favoris,2
-Défi 3,"""Sélectionner votre défi favoris""",Favoris,3
-Défi 4,"""Sélectionner votre défi favoris""",Favoris,4
-Défi 5,"""Sélectionner votre défi favoris""",Favoris,5
-Défi 6,"""Sélectionner votre défi favoris""",Favoris,6
-Défi 7,"""Sélectionner votre défi favoris""",Favoris,7
-Défi 8,"""Sélectionner votre défi favoris""",Favoris,8
-Défi 9,"""Sélectionner votre défi favoris""",Favoris,9
-Défi 10,"""Sélectionner votre défi favoris""",Favoris,10
-Défi 11,"""Sélectionner votre défi favoris""",Favoris,11
-Pas de préférence,"""Sélectionner votre 2ème défi favoris""",Favoris2,0
-Défi 1,"""Sélectionner votre 2ème défi favoris""",Favoris2,1
-Défi 2,"""Sélectionner votre 2ème défi favoris""",Favoris2,2
-Défi 3,"""Sélectionner votre 2ème défi favoris""",Favoris2,3
-Défi 4,"""Sélectionner votre 2ème défi favoris""",Favoris2,4
-Défi 5,"""Sélectionner votre 2ème défi favoris""",Favoris2,5
-Défi 6,"""Sélectionner votre 2ème défi favoris""",Favoris2,6
-Défi 7,"""Sélectionner votre 2ème défi favoris""",Favoris2,7
-Défi 8,"""Sélectionner votre 2ème défi favoris""",Favoris2,8
-Défi 9,"""Sélectionner votre 2ème défi favoris""",Favoris2,9
-Défi 10,"""Sélectionner votre 2ème défi favoris""",Favoris2,10
-Défi 11,"""Sélectionner votre 2ème défi favoris""",Favoris2,11
+API2Build’,"""Sélectionner votre défi favoris""",Favoris,1
+BaDCoPS,"""Sélectionner votre défi favoris""",Favoris,2
+Bambin,"""Sélectionner votre défi favoris""",Favoris,3
+Caliviz,"""Sélectionner votre défi favoris""",Favoris,4
+Carto’Ambroisies,"""Sélectionner votre défi favoris""",Favoris,5
+EnviEndoc,"""Sélectionner votre défi favoris""",Favoris,6
+HistorIRIS,"""Sélectionner votre défi favoris""",Favoris,7
+Métamorph’OSE,"""Sélectionner votre défi favoris""",Favoris,8
+PACTES chaleur,"""Sélectionner votre défi favoris""",Favoris,9
+Quali’eau,"""Sélectionner votre défi favoris""",Favoris,10
+QualiGéoEnvi,"""Sélectionner votre défi favoris""",Favoris,11
+SolAPI,"""Sélectionner votre défi favoris""",Favoris,12
+ThinkBio,"""Sélectionner votre défi favoris""",Favoris,13
+UniBSV,"""Sélectionner votre défi favoris""",Favoris,14
+Urbasanté,"""Sélectionner votre défi favoris""",Favoris,15
+Pas de préférence,"""Sélectionner votre 2nd défi favoris""",Favoris,0
+API2Build’,"""Sélectionner votre 2nd défi favoris""",Favoris,1
+BaDCoPS,"""Sélectionner votre 2nd défi favoris""",Favoris,2
+Bambin,"""Sélectionner votre 2nd défi favoris""",Favoris,3
+Caliviz,"""Sélectionner votre 2nd défi favoris""",Favoris,4
+Carto’Ambroisies,"""Sélectionner votre 2nd défi favoris""",Favoris,5
+EnviEndoc,"""Sélectionner votre 2nd défi favoris""",Favoris,6
+HistorIRIS,"""Sélectionner votre 2nd défi favoris""",Favoris,7
+Métamorph’OSE,"""Sélectionner votre 2nd défi favoris""",Favoris,8
+PACTES chaleur,"""Sélectionner votre 2nd défi favoris""",Favoris,9
+Quali’eau,"""Sélectionner votre 2nd défi favoris""",Favoris,10
+QualiGéoEnvi,"""Sélectionner votre 2nd défi favoris""",Favoris,11
+SolAPI,"""Sélectionner votre 2nd défi favoris""",Favoris,12
+ThinkBio,"""Sélectionner votre 2nd défi favoris""",Favoris,13
+UniBSV,"""Sélectionner votre 2nd défi favoris""",Favoris,14
+Urbasanté,"""Sélectionner votre 2nd défi favoris""",Favoris,15
+Pas de préférence,"""Sélectionner votre 3eme défi favoris""",Favoris,0
+API2Build’,"""Sélectionner votre 3eme défi favoris""",Favoris,1
+BaDCoPS,"""Sélectionner votre 3eme défi favoris""",Favoris,2
+Bambin,"""Sélectionner votre 3eme défi favoris""",Favoris,3
+Caliviz,"""Sélectionner votre 3eme défi favoris""",Favoris,4
+Carto’Ambroisies,"""Sélectionner votre 3eme défi favoris""",Favoris,5
+EnviEndoc,"""Sélectionner votre 3eme défi favoris""",Favoris,6
+HistorIRIS,"""Sélectionner votre 3eme défi favoris""",Favoris,7
+Métamorph’OSE,"""Sélectionner votre 3eme défi favoris""",Favoris,8
+PACTES chaleur,"""Sélectionner votre 3eme défi favoris""",Favoris,9
+Quali’eau,"""Sélectionner votre 3eme défi favoris""",Favoris,10
+QualiGéoEnvi,"""Sélectionner votre 3eme défi favoris""",Favoris,11
+SolAPI,"""Sélectionner votre 3eme défi favoris""",Favoris,12
+ThinkBio,"""Sélectionner votre 3eme défi favoris""",Favoris,13
+UniBSV,"""Sélectionner votre 3eme défi favoris""",Favoris,14
+Urbasanté,"""Sélectionner votre 3eme défi favoris""",Favoris,15
+Pas de préférence,"""Sélectionner votre 4eme défi favoris""",Favoris,0
+API2Build’,"""Sélectionner votre 4eme défi favoris""",Favoris,1
+BaDCoPS,"""Sélectionner votre 4eme défi favoris""",Favoris,2
+Bambin,"""Sélectionner votre 4eme défi favoris""",Favoris,3
+Caliviz,"""Sélectionner votre 4eme défi favoris""",Favoris,4
+Carto’Ambroisies,"""Sélectionner votre 4eme défi favoris""",Favoris,5
+EnviEndoc,"""Sélectionner votre 4eme défi favoris""",Favoris,6
+HistorIRIS,"""Sélectionner votre 4eme défi favoris""",Favoris,7
+Métamorph’OSE,"""Sélectionner votre 4eme défi favoris""",Favoris,8
+PACTES chaleur,"""Sélectionner votre 4eme défi favoris""",Favoris,9
+Quali’eau,"""Sélectionner votre 4eme défi favoris""",Favoris,10
+QualiGéoEnvi,"""Sélectionner votre 4eme défi favoris""",Favoris,11
+SolAPI,"""Sélectionner votre 4eme défi favoris""",Favoris,12
+ThinkBio,"""Sélectionner votre 4eme défi favoris""",Favoris,13
+UniBSV,"""Sélectionner votre 4eme défi favoris""",Favoris,14
+Urbasanté,"""Sélectionner votre 4eme défi favoris""",Favoris,15
+Pas de préférence,"""Sélectionner votre 5eme défi favoris""",Favoris,0
+API2Build’,"""Sélectionner votre 5eme défi favoris""",Favoris,1
+BaDCoPS,"""Sélectionner votre 5eme défi favoris""",Favoris,2
+Bambin,"""Sélectionner votre 5eme défi favoris""",Favoris,3
+Caliviz,"""Sélectionner votre 5eme défi favoris""",Favoris,4
+Carto’Ambroisies,"""Sélectionner votre 5eme défi favoris""",Favoris,5
+EnviEndoc,"""Sélectionner votre 5eme défi favoris""",Favoris,6
+HistorIRIS,"""Sélectionner votre 5eme défi favoris""",Favoris,7
+Métamorph’OSE,"""Sélectionner votre 5eme défi favoris""",Favoris,8
+PACTES chaleur,"""Sélectionner votre 5eme défi favoris""",Favoris,9
+Quali’eau,"""Sélectionner votre 5eme défi favoris""",Favoris,10
+QualiGéoEnvi,"""Sélectionner votre 5eme défi favoris""",Favoris,11
+SolAPI,"""Sélectionner votre 5eme défi favoris""",Favoris,12
+ThinkBio,"""Sélectionner votre 5eme défi favoris""",Favoris,13
+UniBSV,"""Sélectionner votre 5eme défi favoris""",Favoris,14
+Urbasanté,"""Sélectionner votre 5eme défi favoris""",Favoris,15
