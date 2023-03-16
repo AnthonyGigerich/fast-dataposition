@@ -29,13 +29,13 @@
       <tr>
         <td>{{ dataposition_form.consent }}</td>
         <td style="text-align:right">J'ai lu et j'accepte les conditions liées à la conservation de mes données personnelles : <a
-          href="https://challenge.gd4h.ecologie.gouv.fr/consent_data/" target="_blank" rel="noreferrer">En savoir plus</a>.</td>
+          href="https://challenge.gd4h.ecologie.gouv.fr/consent_data_dataposition/" target="_blank" rel="noreferrer">En savoir plus</a>.</td>
       </tr>
       </table>
     </fieldset>
     </div>
     {% for q_form in dataposition_form.questions %}
-      {% if q_form.question.label == "Sélectionner votre défi favoris" %}
+      {% if q_form.question.label == "Sélectionner votre défi favori" %}
         Liste des défis : <a href="https://challenge.gd4h.ecologie.gouv.fr/defis/" target="_blank" rel="noreferrer">https://challenge.gd4h.ecologie.gouv.fr/defis/</a>
       {% endif %}
       {% if q_form.question.choices|length < 7 %} 
