@@ -24,6 +24,7 @@ class User(Base):
     id = Column(Integer, primary_key=True, index=True)
     email = Column(String, unique=True, index=True)
     name = Column(String)
+    prenom = Column(String)
     selected_profile = Column(String)
 
     answers = relationship("Answer", back_populates="author")

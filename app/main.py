@@ -40,6 +40,7 @@ class QuestionForm(StarletteForm):
 
 class DatapositionForm(StarletteForm):
     name = StringField("nom", validators=[DataRequired()])
+    prenom = StringField("prenom", validators=[DataRequired()])
     # https://wtforms.readthedocs.io/en/2.3.x/validators/?highlight=email#wtforms.validators.Email
     email = StringField("email", validators=[DataRequired(), Email()])
     consent = BooleanField("consent", validators=[DataRequired()])
@@ -171,6 +172,7 @@ async def parse_form(request: Request, db: Session = Depends(get_db)) -> Respons
     # store data in DB
     # - user info
     user_name = form_data["name"]
+    user_prenom = form_data["prenom"]
     user_email = form_data["email"]
     # check if a user with this email already exists
     existing_user = (
@@ -179,6 +181,7 @@ async def parse_form(request: Request, db: Session = Depends(get_db)) -> Respons
     if existing_user:
         # update the name
         existing_user.name = user_name
+        existing_user.prenom = user_prenom
         # delete previous answers
         existing_answers = db.query(models.Answer).filter(
             models.Answer.author_id == existing_user.id
@@ -188,7 +191,7 @@ async def parse_form(request: Request, db: Session = Depends(get_db)) -> Respons
     else:
         # insert new user
         # FIXME copy from create_user
-        db_user = models.User(email=user_email, name=user_name)
+        db_user = models.User(email=user_email, name=user_name, prenom=user_prenom)
         db.add(db_user)
         db.commit()
         db.refresh(db_user)
@@ -249,6 +252,7 @@ async def parse_form(request: Request, db: Session = Depends(get_db)) -> Respons
             "p_id2name": p_id2name,
             # personal info
             "name": form_data["name"],
+            "prenom": form_data["prenom"],
             "email": form_data["email"],
             # score for each profile (sorted in descending order)
             "profile_scores": sorted_profiles,
