@@ -37,7 +37,7 @@ fieldset.inlineLabels ul {
 }
 /* default style for entire body */
 body {
-  font-family: Josefin Sans;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -46,7 +46,7 @@ body {
 }
 /* customizable styles for various elements (unused) */
 h1 {
-  font-family: Josefin Sans;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 23px;
   font-style: normal;
   font-variant: normal;
@@ -54,7 +54,7 @@ h1 {
   line-height: 23px;
 }
 h3 {
-  font-family: Josefin Sans;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
   font-style: normal;
   font-variant: normal;
@@ -62,7 +62,7 @@ h3 {
   line-height: 23px;
 }
 p {
-  font-family: Josefin Sans;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -70,7 +70,7 @@ p {
   line-height: 23px;
 }
 blockquote {
-  font-family: Josefin Sans;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
   font-style: normal;
   font-variant: normal;
@@ -78,7 +78,7 @@ blockquote {
   line-height: 23px;
 }
 pre {
-  font-family: Josefin Sans;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 11px;
   font-style: normal;
   font-variant: normal;
