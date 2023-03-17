@@ -170,87 +170,87 @@ Je crois que j’ai lu ça quelque part,"Les modèles de langages, ça vous parl
 Je vois bien ce que sont les modèles de langages et il m’arrive de tester des modèles existants.,"Les modèles de langages, ça vous parle ?",Expert TAL,3
 "Les modèles de langages, ça me connait ! Je peux les paramétrer et les entraîner sur mes propres corpus, voire même les améliorer.","Les modèles de langages, ça vous parle ?",Expert TAL,4
 Pas de préférence,"""Sélectionner votre défi favori""",Favoris,0
-API2Build’,"""Sélectionner votre défi favori""",Favoris,1
-BaDCoPS,"""Sélectionner votre défi favori""",Favoris,2
-Bambin,"""Sélectionner votre défi favori""",Favoris,3
-Caliviz,"""Sélectionner votre défi favori""",Favoris,4
+Api2Build - Lier données de qualité d'air extérieur et intérieur,"""Sélectionner votre défi favori""",Favoris,1
+BaDCoPS - Croiser les données phytopharmaceutiques,"""Sélectionner votre défi favori""",Favoris,2
+BAMBIN - Diffuser les mesures de bruit,"""Sélectionner votre défi favori""",Favoris,3
+Caliviz - Visualiser les substances chimiques de l'alimentation,"""Sélectionner votre défi favori""",Favoris,4
 Capt’AirInt,"""Sélectionner votre défi favori""",Favoris,5
-Carto’Ambroisies,"""Sélectionner votre défi favori""",Favoris,6
-EnviEndoc,"""Sélectionner votre défi favori""",Favoris,7
-HistorIRIS,"""Sélectionner votre défi favori""",Favoris,8
-Métamorph’OSE,"""Sélectionner votre défi favori""",Favoris,9
-PACTES chaleur,"""Sélectionner votre défi favori""",Favoris,10
-Quali’eau,"""Sélectionner votre défi favori""",Favoris,11
-QualiGéoEnvi,"""Sélectionner votre défi favori""",Favoris,12
-SolAPI,"""Sélectionner votre défi favori""",Favoris,13
-ThinkBio,"""Sélectionner votre défi favori""",Favoris,14
-UniBSV,"""Sélectionner votre défi favori""",Favoris,15
-Urbasanté,"""Sélectionner votre défi favori""",Favoris,16
+Carto'Ambroisies - Diffuser les informations sur l'ambroisie,"""Sélectionner votre défi favori""",Favoris,6
+EnviEndoc - Faciliter l'accès aux données sur les perturbateurs endocriniens,"""Sélectionner votre défi favori""",Favoris,7
+HistorIRIS - Créer une table de passage historique des IRIS,"""Sélectionner votre défi favori""",Favoris,8
+Métamorph'OSE - Valoriser les indicateurs de santé-environnement,"""Sélectionner votre défi favori""",Favoris,9
+PACTES chaleur - Représenter le lien entre vagues de chaleur et mortalité,"""Sélectionner votre défi favori""",Favoris,10
+Quali'Eau - Améliorer les données de qualité de l'eau,"""Sélectionner votre défi favori""",Favoris,11
+QualiGéoEnvi - Identifier automatiquement les incohérences de localisation,"""Sélectionner votre défi favori""",Favoris,12
+SolAPI - Valoriser les données de contamination des sols,"""Sélectionner votre défi favori""",Favoris,13
+ThinkBio - Croiser les données de pratiques agricoles et l'environnement,"""Sélectionner votre défi favori""",Favoris,14
+UniBSV - Exploiter automatiquement les Bulletins de Santé des Végétaux,"""Sélectionner votre défi favori""",Favoris,15
+Urbasanté - Visualiser les inégalités sociales de santé et l'aménagement du territoire,"""Sélectionner votre défi favori""",Favoris,16
 Pas de préférence,"""Sélectionner votre 2nd défi favori""",Favoris,0
-API2Build’,"""Sélectionner votre 2nd défi favori""",Favoris,1
-BaDCoPS,"""Sélectionner votre 2nd défi favori""",Favoris,2
-Bambin,"""Sélectionner votre 2nd défi favori""",Favoris,3
-Caliviz,"""Sélectionner votre 2nd défi favori""",Favoris,4
+Api2Build - Lier données de qualité d'air extérieur et intérieur,"""Sélectionner votre 2nd défi favori""",Favoris,1
+BaDCoPS - Croiser les données phytopharmaceutiques,"""Sélectionner votre 2nd défi favori""",Favoris,2
+BAMBIN - Diffuser les mesures de bruit,"""Sélectionner votre 2nd défi favori""",Favoris,3
+Caliviz - Visualiser les substances chimiques de l'alimentation,"""Sélectionner votre 2nd défi favori""",Favoris,4
 Capt’AirInt,"""Sélectionner votre 2nd défi favori""",Favoris,5
-Carto’Ambroisies,"""Sélectionner votre 2nd défi favori""",Favoris,6
-EnviEndoc,"""Sélectionner votre 2nd défi favori""",Favoris,7
-HistorIRIS,"""Sélectionner votre 2nd défi favori""",Favoris,8
-Métamorph’OSE,"""Sélectionner votre 2nd défi favori""",Favoris,9
-PACTES chaleur,"""Sélectionner votre 2nd défi favori""",Favoris,10
-Quali’eau,"""Sélectionner votre 2nd défi favori""",Favoris,11
-QualiGéoEnvi,"""Sélectionner votre 2nd défi favori""",Favoris,12
-SolAPI,"""Sélectionner votre 2nd défi favori""",Favoris,13
-ThinkBio,"""Sélectionner votre 2nd défi favori""",Favoris,14
-UniBSV,"""Sélectionner votre 2nd défi favori""",Favoris,15
-Urbasanté,"""Sélectionner votre 2nd défi favori""",Favoris,16
+Carto'Ambroisies - Diffuser les informations sur l'ambroisie,"""Sélectionner votre 2nd défi favori""",Favoris,6
+EnviEndoc - Faciliter l'accès aux données sur les perturbateurs endocriniens,"""Sélectionner votre 2nd défi favori""",Favoris,7
+HistorIRIS - Créer une table de passage historique des IRIS,"""Sélectionner votre 2nd défi favori""",Favoris,8
+Métamorph'OSE - Valoriser les indicateurs de santé-environnement,"""Sélectionner votre 2nd défi favori""",Favoris,9
+PACTES chaleur - Représenter le lien entre vagues de chaleur et mortalité,"""Sélectionner votre 2nd défi favori""",Favoris,10
+Quali'Eau - Améliorer les données de qualité de l'eau,"""Sélectionner votre 2nd défi favori""",Favoris,11
+QualiGéoEnvi - Identifier automatiquement les incohérences de localisation,"""Sélectionner votre 2nd défi favori""",Favoris,12
+SolAPI - Valoriser les données de contamination des sols,"""Sélectionner votre 2nd défi favori""",Favoris,13
+ThinkBio - Croiser les données de pratiques agricoles et l'environnement,"""Sélectionner votre 2nd défi favori""",Favoris,14
+UniBSV - Exploiter automatiquement les Bulletins de Santé des Végétaux,"""Sélectionner votre 2nd défi favori""",Favoris,15
+Urbasanté - Visualiser les inégalités sociales de santé et l'aménagement du territoire,"""Sélectionner votre 2nd défi favori""",Favoris,16
 Pas de préférence,"""Sélectionner votre 3eme défi favori""",Favoris,0
-API2Build’,"""Sélectionner votre 3eme défi favori""",Favoris,1
-BaDCoPS,"""Sélectionner votre 3eme défi favori""",Favoris,2
-Bambin,"""Sélectionner votre 3eme défi favori""",Favoris,3
-Caliviz,"""Sélectionner votre 3eme défi favori""",Favoris,4
+Api2Build - Lier données de qualité d'air extérieur et intérieur,"""Sélectionner votre 3eme défi favori""",Favoris,1
+BaDCoPS - Croiser les données phytopharmaceutiques,"""Sélectionner votre 3eme défi favori""",Favoris,2
+BAMBIN - Diffuser les mesures de bruit,"""Sélectionner votre 3eme défi favori""",Favoris,3
+Caliviz - Visualiser les substances chimiques de l'alimentation,"""Sélectionner votre 3eme défi favori""",Favoris,4
 Capt’AirInt,"""Sélectionner votre 3eme défi favori""",Favoris,5
-Carto’Ambroisies,"""Sélectionner votre 3eme défi favori""",Favoris,6
-EnviEndoc,"""Sélectionner votre 3eme défi favori""",Favoris,7
-HistorIRIS,"""Sélectionner votre 3eme défi favori""",Favoris,8
-Métamorph’OSE,"""Sélectionner votre 3eme défi favori""",Favoris,9
-PACTES chaleur,"""Sélectionner votre 3eme défi favori""",Favoris,10
-Quali’eau,"""Sélectionner votre 3eme défi favori""",Favoris,11
-QualiGéoEnvi,"""Sélectionner votre 3eme défi favori""",Favoris,12
-SolAPI,"""Sélectionner votre 3eme défi favori""",Favoris,13
-ThinkBio,"""Sélectionner votre 3eme défi favori""",Favoris,14
-UniBSV,"""Sélectionner votre 3eme défi favori""",Favoris,15
-Urbasanté,"""Sélectionner votre 3eme défi favori""",Favoris,16
+Carto'Ambroisies - Diffuser les informations sur l'ambroisie,"""Sélectionner votre 3eme défi favori""",Favoris,6
+EnviEndoc - Faciliter l'accès aux données sur les perturbateurs endocriniens,"""Sélectionner votre 3eme défi favori""",Favoris,7
+HistorIRIS - Créer une table de passage historique des IRIS,"""Sélectionner votre 3eme défi favori""",Favoris,8
+Métamorph'OSE - Valoriser les indicateurs de santé-environnement,"""Sélectionner votre 3eme défi favori""",Favoris,9
+PACTES chaleur - Représenter le lien entre vagues de chaleur et mortalité,"""Sélectionner votre 3eme défi favori""",Favoris,10
+Quali'Eau - Améliorer les données de qualité de l'eau,"""Sélectionner votre 3eme défi favori""",Favoris,11
+QualiGéoEnvi - Identifier automatiquement les incohérences de localisation,"""Sélectionner votre 3eme défi favori""",Favoris,12
+SolAPI - Valoriser les données de contamination des sols,"""Sélectionner votre 3eme défi favori""",Favoris,13
+ThinkBio - Croiser les données de pratiques agricoles et l'environnement,"""Sélectionner votre 3eme défi favori""",Favoris,14
+UniBSV - Exploiter automatiquement les Bulletins de Santé des Végétaux,"""Sélectionner votre 3eme défi favori""",Favoris,15
+Urbasanté - Visualiser les inégalités sociales de santé et l'aménagement du territoire,"""Sélectionner votre 3eme défi favori""",Favoris,16
 Pas de préférence,"""Sélectionner votre 4eme défi favori""",Favoris,0
-API2Build’,"""Sélectionner votre 4eme défi favori""",Favoris,1
-BaDCoPS,"""Sélectionner votre 4eme défi favori""",Favoris,2
-Bambin,"""Sélectionner votre 4eme défi favori""",Favoris,3
-Caliviz,"""Sélectionner votre 4eme défi favori""",Favoris,4
+Api2Build - Lier données de qualité d'air extérieur et intérieur,"""Sélectionner votre 4eme défi favori""",Favoris,1
+BaDCoPS - Croiser les données phytopharmaceutiques,"""Sélectionner votre 4eme défi favori""",Favoris,2
+BAMBIN - Diffuser les mesures de bruit,"""Sélectionner votre 4eme défi favori""",Favoris,3
+Caliviz - Visualiser les substances chimiques de l'alimentation,"""Sélectionner votre 4eme défi favori""",Favoris,4
 Capt’AirInt,"""Sélectionner votre 4eme défi favori""",Favoris,5
-Carto’Ambroisies,"""Sélectionner votre 4eme défi favori""",Favoris,6
-EnviEndoc,"""Sélectionner votre 4eme défi favori""",Favoris,7
-HistorIRIS,"""Sélectionner votre 4eme défi favori""",Favoris,8
-Métamorph’OSE,"""Sélectionner votre 4eme défi favori""",Favoris,9
-PACTES chaleur,"""Sélectionner votre 4eme défi favori""",Favoris,10
-Quali’eau,"""Sélectionner votre 4eme défi favori""",Favoris,11
-QualiGéoEnvi,"""Sélectionner votre 4eme défi favori""",Favoris,12
-SolAPI,"""Sélectionner votre 4eme défi favori""",Favoris,13
-ThinkBio,"""Sélectionner votre 4eme défi favori""",Favoris,14
-UniBSV,"""Sélectionner votre 4eme défi favori""",Favoris,15
-Urbasanté,"""Sélectionner votre 4eme défi favori""",Favoris,16
+Carto'Ambroisies - Diffuser les informations sur l'ambroisie,"""Sélectionner votre 4eme défi favori""",Favoris,6
+EnviEndoc - Faciliter l'accès aux données sur les perturbateurs endocriniens,"""Sélectionner votre 4eme défi favori""",Favoris,7
+HistorIRIS - Créer une table de passage historique des IRIS,"""Sélectionner votre 4eme défi favori""",Favoris,8
+Métamorph'OSE - Valoriser les indicateurs de santé-environnement,"""Sélectionner votre 4eme défi favori""",Favoris,9
+PACTES chaleur - Représenter le lien entre vagues de chaleur et mortalité,"""Sélectionner votre 4eme défi favori""",Favoris,10
+Quali'Eau - Améliorer les données de qualité de l'eau,"""Sélectionner votre 4eme défi favori""",Favoris,11
+QualiGéoEnvi - Identifier automatiquement les incohérences de localisation,"""Sélectionner votre 4eme défi favori""",Favoris,12
+SolAPI - Valoriser les données de contamination des sols,"""Sélectionner votre 4eme défi favori""",Favoris,13
+ThinkBio - Croiser les données de pratiques agricoles et l'environnement,"""Sélectionner votre 4eme défi favori""",Favoris,14
+UniBSV - Exploiter automatiquement les Bulletins de Santé des Végétaux,"""Sélectionner votre 4eme défi favori""",Favoris,15
+Urbasanté - Visualiser les inégalités sociales de santé et l'aménagement du territoire,"""Sélectionner votre 4eme défi favori""",Favoris,16
 Pas de préférence,"""Sélectionner votre 5eme défi favori""",Favoris,0
-API2Build’,"""Sélectionner votre 5eme défi favori""",Favoris,1
-BaDCoPS,"""Sélectionner votre 5eme défi favori""",Favoris,2
-Bambin,"""Sélectionner votre 5eme défi favori""",Favoris,3
-Caliviz,"""Sélectionner votre 5eme défi favori""",Favoris,4
+Api2Build - Lier données de qualité d'air extérieur et intérieur,"""Sélectionner votre 5eme défi favori""",Favoris,1
+BaDCoPS - Croiser les données phytopharmaceutiques,"""Sélectionner votre 5eme défi favori""",Favoris,2
+BAMBIN - Diffuser les mesures de bruit,"""Sélectionner votre 5eme défi favori""",Favoris,3
+Caliviz - Visualiser les substances chimiques de l'alimentation,"""Sélectionner votre 5eme défi favori""",Favoris,4
 Capt’AirInt,"""Sélectionner votre 5eme défi favori""",Favoris,5
-Carto’Ambroisies,"""Sélectionner votre 5eme défi favori""",Favoris,6
-EnviEndoc,"""Sélectionner votre 5eme défi favori""",Favoris,7
-HistorIRIS,"""Sélectionner votre 5eme défi favori""",Favoris,8
-Métamorph’OSE,"""Sélectionner votre 5eme défi favori""",Favoris,9
-PACTES chaleur,"""Sélectionner votre 5eme défi favori""",Favoris,10
-Quali’eau,"""Sélectionner votre 5eme défi favori""",Favoris,11
-QualiGéoEnvi,"""Sélectionner votre 5eme défi favori""",Favoris,12
-SolAPI,"""Sélectionner votre 5eme défi favori""",Favoris,13
-ThinkBio,"""Sélectionner votre 5eme défi favori""",Favoris,14
-UniBSV,"""Sélectionner votre 5eme défi favori""",Favoris,15
-Urbasanté,"""Sélectionner votre 5eme défi favori""",Favoris,16
+Carto'Ambroisies - Diffuser les informations sur l'ambroisie,"""Sélectionner votre 5eme défi favori""",Favoris,6
+EnviEndoc - Faciliter l'accès aux données sur les perturbateurs endocriniens,"""Sélectionner votre 5eme défi favori""",Favoris,7
+HistorIRIS - Créer une table de passage historique des IRIS,"""Sélectionner votre 5eme défi favori""",Favoris,8
+Métamorph'OSE - Valoriser les indicateurs de santé-environnement,"""Sélectionner votre 5eme défi favori""",Favoris,9
+PACTES chaleur - Représenter le lien entre vagues de chaleur et mortalité,"""Sélectionner votre 5eme défi favori""",Favoris,10
+Quali'Eau - Améliorer les données de qualité de l'eau,"""Sélectionner votre 5eme défi favori""",Favoris,11
+QualiGéoEnvi - Identifier automatiquement les incohérences de localisation,"""Sélectionner votre 5eme défi favori""",Favoris,12
+SolAPI - Valoriser les données de contamination des sols,"""Sélectionner votre 5eme défi favori""",Favoris,13
+ThinkBio - Croiser les données de pratiques agricoles et l'environnement,"""Sélectionner votre 5eme défi favori""",Favoris,14
+UniBSV - Exploiter automatiquement les Bulletins de Santé des Végétaux,"""Sélectionner votre 5eme défi favori""",Favoris,15
+Urbasanté - Visualiser les inégalités sociales de santé et l'aménagement du territoire,"""Sélectionner votre 5eme défi favori""",Favoris,16
