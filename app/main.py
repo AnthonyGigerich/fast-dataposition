@@ -169,8 +169,17 @@ async def get_form(request: Request, db: Session = Depends(get_db)):
 # https://github.com/tiangolo/fastapi/issues/852
 async def parse_form(request: Request, db: Session = Depends(get_db)) -> Response:
     form_data = await request.form()
+
+    print(form_data)
     # store data in DB
     # - user info
+    if "name" not in form_data:
+        form_data["name"] = "error"
+    if "prenom" not in form_data:
+        form_data["prenom"] = "error"
+    if "email" not in form_data:
+        form_data["email"] = "error"
+
     user_name = form_data["name"]
     user_prenom = form_data["prenom"]
     user_email = form_data["email"]
